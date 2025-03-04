@@ -1,7 +1,7 @@
 ---
 title: Most Effective Gratis Applications to Retrieve Lost Files After Hard Drive Format
-date: 2025-02-07T03:13:47.948Z
-updated: 2025-02-12T20:14:33.868Z
+date: 2025-02-26T04:03:50.663Z
+updated: 2025-03-03T20:34:23.446Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/6ef60ecb7cca2401b9fc5fadf824084078b845e24ce4184a0282eba3264f61a8.jpg
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/6ef60ecb7cca2401b9fc5fadf824084078b845e24
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Recover Files from Ransomware Attack \[Full Guide 2022\]
 
@@ -52,10 +48,6 @@ If you are looking for methods on how to recover ransomware-infected files, you 
 
 [![Recover Files From Ransomware](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/others/recover-files-from-ransomware.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to recover files from ransomware attack in 4 ways
 
 Many solutions are available for you to solve how to recover data from ransomware attacks. We have selected some easy-to-implement methods for you. Read below for detailed information. 
@@ -86,23 +78,11 @@ The recovery tool will automatically start looking for all the deleted and lost 
 
 [![Scan Lost Data](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows-recovery/scan-lost-data.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3\. Recover selected files**
 
 You can expand the Deleted files folder and Other missing files folder to select the desired items, then click **Recover x files** to begin ransomware attack recovery now.
 
 [![Select Deleted Excel Files Click Recover](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows-recovery/select-deleted-excel-files-click-recover.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 2\. Recover ransomware infected files via Backup and Restore
 
@@ -122,10 +102,6 @@ Step 3\. Click **Browse for files** to locate your lost data and choose to save 
 
 [![Browse For Files To Restore](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/browse-for-files-to-restore.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 3\. Get back files from ransomware using File History
 
 If you have used File History to save a copy of your precious data, you can follow the steps below to figure out how to recover encrypted files from ransomware. You can use this tool to [recover permanently deleted folders](https://tools.techidaily.com/ubackup/products/) and files on your computer as well.
@@ -134,10 +110,6 @@ Step 1\. Go to **Control Panel** \> **System and Security**, and click on **File
 
 [![File History](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/file-history.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 2\. Press the **Restore personal files** button on the left panel. Please make sure your File History is turned on.
 
 [![Restore Personal Files](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/restore-personal-files.png)
@@ -145,10 +117,6 @@ Step 2\. Press the **Restore personal files** button on the left panel. Please m
 Step 3\. Find the files you want to recover and click the arrow pointing left or right to choose the version you need. And then, click the **Recover** button.
 
 [![Restore Deleted File](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/restore-deleted-file.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 4\. Recover from ransomware through system restore
 
@@ -187,10 +155,6 @@ To prevent ransomware from attacking your computer and files again, we list seve
 * Report ransomware attacks to let authorities identify the attacker.
 * Regularly back up important data in case of emergencies.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 Ransomware can't be prevented. Though there are multiple ways for you to accomplish how to recover files from ransomware, prevention is easier than rescue. We highly recommend you backup your important data periodically.
@@ -206,10 +170,6 @@ Was the provided information useful? Your vote is important to us!
 [Kelsey](https://tools.techidaily.com/ubackup/products/) · Editor
 
 Kelsey is an English editor of AOMEI Technology. She is passionate about helping people find effective ways to deal with all problems in computer. She has great insights into data backup and recovery, disk partition and clone, and other data protection measures. She likes learn computer skills to improve herself and enjoy quality time with family and friends. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Related Articles
 
@@ -256,24 +216,22 @@ Recover deleted & lost data from any disasters in Windows.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-top-10-best-4k-monitors-for-mac/"><u>[New] 2024 Approved Top 10 Best 4K Monitors for Mac</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-prime-construction-tips-for-mc-community-abodes/"><u>[New] In 2024, Prime Construction Tips for MC Community Abodes</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/aestro-of-visual-and-sonic-harmony-creation-for-2024/"><u>[New] Maestro of Visual & Sonic Harmony Creation for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-top-picks-for-personalizing-mbp-screens-with-skins/"><u>[Updated] Top Picks for Personalizing MBP Screens with Skins</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-zoom-breakout-rooms-for-newcomers-explored/"><u>[Updated] Zoom Breakout Rooms for Newcomers Explored</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/captivating-new-zealand-wallpapers-stunning-backgrounds-high-quality-photos-and-images-by-yl-computing/"><u>Captivating New Zealand Wallpapers: Stunning Backgrounds, High-Quality Photos & Images by YL Computing</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/effective-techniques-to-find-specific-documents-within-windows-os-expert-tips-by-yl-software-solutions/"><u>Effective Techniques to Find Specific Documents Within Windows OS - Expert Tips by YL Software Solutions</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/find-and-buy-premium-youtube-ringtone-videos-easily-for-2024/"><u>Find & Buy Premium YouTube Ringtone Videos Easily for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/finessing-your-profiles-first-look/"><u>Finessing Your Profile's First Look</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/how-can-i-diagnose-and-fix-hardware-issues-causing-performance-lags-in-my-computer-expert-guidance-from-yl-computing/"><u>How Can I Diagnose and Fix Hardware Issues Causing Performance Lags in My Computer? - Expert Guidance From YL Computing</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/how-to-spot-failure-symptoms-in-your-systems-memory-modules-with-tips-from-yl-software/"><u>How to Spot Failure Symptoms in Your System's Memory Modules with Tips From YL Software</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-text-techniques-in-videos/"><u>In 2024, Innovative Text Techniques in Videos</u></a></li>
-<li><a href="https://techtrends.techidaily.com/is-apples-latest-gem-iphone-15-pro-max-built-for-underwater-adventures/"><u>Is Apple's Latest Gem, iPhone 15 Pro Max, Built for Underwater Adventures?</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/key-historical-catalysts-behind-the-downfall-of-the-qing-empire-insights-from-yl-technology/"><u>Key Historical Catalysts Behind the Downfall of the Qing Empire: Insights From YL Technology</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/overcoming-wlanapidll-errors-strategies-and-tips-for-quick-recovery/"><u>Overcoming 'WLanapi.dll' Errors: Strategies and Tips for Quick Recovery</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/seeking-testers-join-our-dex-3-and-soundcloud-team-rewarding-opportunities-await/"><u>Seeking TESTERS: Join Our DEX 3 & SoundCloud Team – Rewarding Opportunities Await!</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/simplified-guide-to-navigating-and-controlling-your-account-settings-on-yl-softwares-dashboard/"><u>Simplified Guide to Navigating and Controlling Your Account Settings on YL Software's Dashboard</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/unleash-your-inner-star-with-party-tyme-karaokes-7-day-free-access-perfect-for-pcdj-enthusiasts-on-dex/"><u>Unleash Your Inner Star with Party Tyme Karaoke's 7-Day Free Access - Perfect for PCDJ Enthusiasts on DEX!</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/unveiling-additional-capabilities-of-windows-defender-insights-from-yl-computing-and-yl-software-experts/"><u>Unveiling Additional Capabilities of Windows Defender: Insights From YL Computing and YL Software Experts</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-the-ultimate-list-for-google-pixel-tones/"><u>[New] 2024 Approved The Ultimate List for Google Pixel Tones</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-achieve-excellence-in-google-meet-hostparticipant-at-no-cost-for-2024/"><u>[Updated] Achieve Excellence in Google Meet (Host/Participant) at No Cost for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-in-depth-the-art-of-photo-editing-workflow/"><u>2024 Approved In-Depth The Art of Photo Editing Workflow</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-unbox-the-secrets-of-10-song-success-on-facebook/"><u>2024 Approved Unbox the Secrets of #10 Song Success on Facebook</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/bilateral-business-council-initiated-by-us-and-beijing-sparks-criticism-from-house-foreign-affairs-chairman-for-its-naive-approach-to-economic-diplomacy/"><u>Bilateral Business Council Initiated by US and Beijing Sparks Criticism From House Foreign Affairs Chairman for Its 'Naïve' Approach to Economic Diplomacy</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/by-author-u-brother-the-allure-and-choices-of-a-million-solitudes-path/"><u>By Author U-Brother: The Allure and Choices of a Million Solitudes' Path</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-phone-number-from-your-apple-id-from-your-apple-iphone-8-by-drfone-ios/"><u>How To Remove Phone Number From Your Apple ID from Your Apple iPhone 8?</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Vivo V30 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-samsung-galaxy-s23-fe-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Samsung Galaxy S23 FE FRP Locks</u></a></li>
+<li><a href="https://solve-info.techidaily.com/maintain-peak-efficiency-for-your-computer-with-proven-strategies-by-yl-computing/"><u>Maintain Peak Efficiency for Your Computer with Proven Strategies by YL Computing</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/monoprice-art-pen-graphics-tablet-evaluation-high-quality-design-on-a-low-cost/"><u>Monoprice Art Pen Graphics Tablet Evaluation: High-Quality Design on a Low Cost</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/stunning-panoramic-views-of-london-2019-high-quality-desktop-backgrounds-by-yl-computing/"><u>Stunning Panoramic Views of London, 2019 High-Quality Desktop Backgrounds by YL Computing</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/the-advantages-of-a-dedicated-gpu-in-music-video-editing-with-pcdj-software/"><u>The Advantages of a Dedicated GPU in Music Video Editing with PCDJ Software</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/top-chart-topping-tracks-for-dj-remixes-discover-march-2017s-best-from-the-video-pool/"><u>Top Chart-Topping Tracks for DJ Remixes: Discover March 2017'S Best From The Video Pool</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/top-tools-for-monitoring-crypto-values-insights-from-yl-computings-expertise/"><u>Top Tools for Monitoring Crypto Values: Insights From YL Computing's Expertise</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/troubleshooting-tips-for-cddvd-drives-that-wont-read-discs-expert-advice-from-yl-computing/"><u>Troubleshooting Tips for CD/DVD Drives That Won't Read Discs – Expert Advice From YL Computing</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/yl-computing-unveiled-simple-techniques-to-personalize-your-background-image-on-windows-and-macos-systems/"><u>YL Computing Unveiled: Simple Techniques to Personalize Your Background Image on Windows and MacOS Systems</u></a></li>
 </ul></div>
 

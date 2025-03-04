@@ -1,7 +1,7 @@
 ---
 title: 解決方法：即時失去硬碟的關鍵步驟，如何搶救和追回重要資料
-date: 2025-02-10T23:14:56.858Z
-updated: 2025-02-12T18:01:29.510Z
+date: 2025-03-03T06:28:12.152Z
+updated: 2025-03-04T00:00:17.825Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/5f9bdb089a72cbfbce20351e13d8c69867a47335c73b8710c5509727c5e15028.jpg
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/5f9bdb089a72cbfbce20351e13d8c69867a47335c
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Recover Files from Ransomware Attack \[Full Guide 2022\]
 
 This page covers 4 ways on how to recover files from ransomware and offers some tips that can help you prevent ransomware attacks.
@@ -31,10 +27,6 @@ This page covers 4 ways on how to recover files from ransomware and offers some 
 By[Kelsey](https://tools.techidaily.com/ubackup/products/)/ Updated on April 2, 2024
 
 Share this: [![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg)](https://www.ubackup.com/data-recovery-disk/javascript:void%280%29;) [![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg)](https://www.ubackup.com/data-recovery-disk/javascript:void%280%29;) [![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg)](https://www.ubackup.com/data-recovery-disk/javascript:void%280%29;) [![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg)](https://www.ubackup.com/data-recovery-disk/javascript:void%280%29;) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Table of Contents** 
 
@@ -46,10 +38,6 @@ Share this: [![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-art
    4. [Method 4\. Recover from ransomware through system restore](https://tools.techidaily.com/ubackup/products/)
 3. [Conclusion](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Is it possible to recover data from ransomware?
 
 I'm looking at a computer after it's been hit by some ransomware. The files have been encrypted. I am trying some guides in removal and recovery, but they don't seem to be of much help. If you have suggestions on how to recover files from ransomware, I would appreciate it.
@@ -59,10 +47,6 @@ When a storage device or computer is infected by a ransomware virus, your files 
 If you are looking for methods on how to recover ransomware-infected files, you have come to the right place. In the following chapter, we will show you some practical ways to [recover lost data](https://tools.techidaily.com/ubackup/products/) from ransomware attacks.
 
 [![Recover Files From Ransomware](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/others/recover-files-from-ransomware.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to recover files from ransomware attack in 4 ways
 
@@ -110,10 +94,6 @@ Step 1\. Open **Control Panel** and click on **System and Security**. Then, hit 
 
 [![Windows Backup And Restore](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/windows-backup-and-restore.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 2\. Tap on the **Restore my files** position in the Restore tab.
 
 ![Windows Backup Restore My Files](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
@@ -121,10 +101,6 @@ Step 2\. Tap on the **Restore my files** position in the Restore tab.
 Step 3\. Click **Browse for files** to locate your lost data and choose to save your recovered files in your original location or another destination as needed.
 
 [![Browse For Files To Restore](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/browse-for-files-to-restore.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 3\. Get back files from ransomware using File History
 
@@ -138,17 +114,9 @@ Step 2\. Press the **Restore personal files** button on the left panel. Please m
 
 [![Restore Personal Files](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/restore-personal-files.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 3\. Find the files you want to recover and click the arrow pointing left or right to choose the version you need. And then, click the **Recover** button.
 
 [![Restore Deleted File](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/restore-deleted-file.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 4\. Recover from ransomware through system restore
 
@@ -167,10 +135,6 @@ Step 2\. Click on **System Restore** \> **Next**.
 Step 3\. Choose a restore point from the list and tap on **Scan for affected programs** to check the items that will be deleted after the restore. Then, click **Close**.
 
 [![Scan For Affected Programs Close](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/scan-for-affected-programs-close.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 4\. Press **Next**. Confirm the selected restore point and click **Finish**. Then, hit **Yes** to begin the [recovery of deleted files](https://tools.techidaily.com/ubackup/products/).
 
@@ -237,10 +201,6 @@ Recover deleted & lost data from any disasters in Windows.
 
 ![](https://www.ubackup.com/resource/images/ub-mr-theme/ub-article-mr-img-dibu.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -256,21 +216,20 @@ Recover deleted & lost data from any disasters in Windows.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-craft-a-distinctive-tiktok-persona-with-these-unique-pfp-ideas/"><u>[New] 2024 Approved Craft a Distinctive TikTok Persona with These Unique PFP Ideas</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-high-definition-footage-leading-cameras-of-2024/"><u>[New] High Definition Footage Leading Cameras of 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-master-earning-plan-top-5-highest-paying-ig-posts/"><u>[Updated] 2024 Approved Master Earning Plan Top 5 Highest Paying IG Posts</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/enhancing-your-recordings-additional-layers-of-voice-processing-in-audacity-using-plugins-for-2024/"><u>Enhancing Your Recordings Additional Layers of Voice Processing in Audacity Using Plugins for 2024</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/expert-tips-for-legally-unlocking-drm-protection-on-amazons-kindle-titles/"><u>Expert Tips for Legally Unlocking DRM Protection on Amazon's Kindle Titles</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/guide-pratique-pour-lecture-en-mode-browser-de-vos-ebooks-calibre-sur-ios-tablettes-and-plus/"><u>Guide Pratique Pour Lecture en Mode Browser De Vos eBooks Calibre Sur iOS, Tablettes & Plus</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/how-does-the-revamped-amazon-kindle-cloud-reader-of-2020-work/"><u>How Does the Revamped Amazon Kindle Cloud Reader of 2020 Work?</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/how-the-kindle-paperwhite-2-enhances-reading-experience-over-the-first-generation/"><u>How the Kindle Paperwhite 2 Enhances Reading Experience Over the First Generation</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-honor-magic-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Honor Magic 5 | Dr.fone</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/how-to-read-your-moved-titles-on-any-device-with-kindles-e-reader-tools/"><u>How to Read Your Moved Titles on Any Device with Kindle's E-Reader Tools</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/how-to-transform-your-pdf-documents-into-kindle-ebooks-an-in-depth-walkthrough/"><u>How to Transform Your PDF Documents Into Kindle eBooks: An In-Depth Walkthrough</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-the-future-together-top-vr-gear/"><u>In 2024, Exploring the Future Together Top VR Gear</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-infinix-note-30-vip-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Infinix Note 30 VIP? | Dr.fone</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/insight-into-courtroom-battles-navigating-through-a-legal-trial/"><u>Insight Into Courtroom Battles: Navigating Through a Legal Trial</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/personalized-screenplays-with-chatgpt-assistance/"><u>Personalized Screenplays with ChatGPT Assistance</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/the-complete-guide-to-honor-magic-5-lite-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Honor Magic 5 Lite FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-discovering-the-ins-and-outs-of-youtube-shorts-capital/"><u>[New] 2024 Approved Discovering the Ins and Outs of YouTube Shorts Capital</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-mastering-audio-notes-essential-tips/"><u>[New] 2024 Approved Mastering Audio Notes Essential Tips</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-a-step-by-step-guide-to-mp4-and-beyond-vlc-conversions-for-2024/"><u>[New] A Step-by-Step Guide to MP4 and Beyond VLC Conversions for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/iscovering-the-ultimate-10-free-youtube-artist-collaborators/"><u>[New] Discovering the Ultimate 10 Free YouTube Artist Collaborators</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-alternatives-to-googles-ar-interactive-graphics/"><u>[New] In 2024, Alternatives to Google's AR Interactive Graphics</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-streamlined-steps-to-document-chat-calls-on-whatsapp-for-2024/"><u>[New] Streamlined Steps to Document Chat Calls on WhatsApp for 2024</u></a></li>
+<li><a href="https://win-guides.techidaily.com/1-easily-save-your-favorite-wwe-matches-as-mp4movavi-files-with-our-top-video-downloader/"><u>1. Easily Save Your Favorite WWE Matches as MP4/MOV/AVI Files with Our Top Video Downloader</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-list-of-visionos-innovations-we-hope-apple-will-unveil-at-this-years-wwdc-tech-insights-by-zdnet/"><u>The Ultimate List of VisionOS Innovations We Hope Apple Will Unveil at This Year's WWDC | Tech Insights by ZDNet</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/top-strategies-for-converting-aax-audio-files-to-mp3-format-on-macos-this-year/"><u>Top Strategies for Converting AAX Audio Files to MP3 Format on macOS This Year</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/ultimate-guide-transforming-your-pdf-documents-into-editable-word-files/"><u>Ultimate Guide: Transforming Your PDF Documents Into Editable Word Files</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/unlocking-the-secrets-your-guide-to-reading-epub-on-a-kindle-device/"><u>Unlocking the Secrets: Your Guide to Reading EPUB on a Kindle Device</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/unlocking-your-kindle-fire-7-az3-device-managing-digital-content/"><u>Unlocking Your Kindle Fire 7 (AZ3) Device: Managing Digital Content</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/unraveling-ebook-standards-how-kindles-kfx-kcr-prc-and-mobi-differ-from-standard-azw-and-topaz-formats/"><u>Unraveling eBook Standards: How Kindle's KFX, KCR, PRC & Mobi Differ From Standard AZW and Topaz Formats</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/unveiling-the-secrets-behind-vbk-files-what-you-need-to-know/"><u>Unveiling the Secrets Behind VBK Files: What You Need To Know</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/urgent-steps-for-disabling-ebook-protections-on-your-kindle-device/"><u>Urgent Steps for Disabling eBook Protections on Your Kindle Device</u></a></li>
 </ul></div>
 

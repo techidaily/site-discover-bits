@@ -1,7 +1,7 @@
 ---
 title: "Efficient Task Manager: How to End a Session or Save Your Scheduled Plans"
-date: 2025-01-22T17:09:36.163Z
-updated: 2025-01-24T03:31:44.953Z
+date: 2025-03-02T19:54:28.747Z
+updated: 2025-03-04T00:32:54.443Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/90cf06f9730c5591652ae4f421f62950743940a3b49411aac162c7581850732b.jpg
@@ -78,19 +78,11 @@ The recovery tool will automatically start looking for all the deleted and lost 
 
 [![Scan Lost Data](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows-recovery/scan-lost-data.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3\. Recover selected files**
 
 You can expand the Deleted files folder and Other missing files folder to select the desired items, then click **Recover x files** to begin ransomware attack recovery now.
 
 [![Select Deleted Excel Files Click Recover](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows-recovery/select-deleted-excel-files-click-recover.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 2\. Recover ransomware infected files via Backup and Restore
 
@@ -106,17 +98,9 @@ Step 2\. Tap on the **Restore my files** position in the Restore tab.
 
 ![Windows Backup Restore My Files](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 3\. Click **Browse for files** to locate your lost data and choose to save your recovered files in your original location or another destination as needed.
 
 [![Browse For Files To Restore](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/browse-for-files-to-restore.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 3\. Get back files from ransomware using File History
 
@@ -134,10 +118,6 @@ Step 3\. Find the files you want to recover and click the arrow pointing left or
 
 [![Restore Deleted File](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/restore-deleted-file.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 4\. Recover from ransomware through system restore
 
 If you have created a restore point for your system, the system restore can bring your PC back to a previous point in time. This means that you can get back files on your computer that have been encrypted by ransomware through a system restore point.
@@ -148,25 +128,13 @@ Step 1\. Press **Win + S** to open the Windows search box, type **Create a resto
 
 [![Create A Restore Point Open](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/create-a-restore-point-open.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 2\. Click on **System Restore** \> **Next**.
 
 [![System Drive On System Restore Next](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/system-drive-on-system-restore-next.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 3\. Choose a restore point from the list and tap on **Scan for affected programs** to check the items that will be deleted after the restore. Then, click **Close**.
 
 [![Scan For Affected Programs Close](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/scan-for-affected-programs-close.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 4\. Press **Next**. Confirm the selected restore point and click **Finish**. Then, hit **Yes** to begin the [recovery of deleted files](https://tools.techidaily.com/ubackup/products/).
 
@@ -198,10 +166,6 @@ Was the provided information useful? Your vote is important to us!
 [Yes](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
 ![Kelsey](https://www.ubackup.com/assets/images/author/kelsey-avatar.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [Kelsey](https://tools.techidaily.com/ubackup/products/) · Editor
 
@@ -237,10 +201,6 @@ Recover deleted & lost data from any disasters in Windows.
 
 ![](https://www.ubackup.com/resource/images/ub-mr-theme/ub-article-mr-img-dibu.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -256,24 +216,24 @@ Recover deleted & lost data from any disasters in Windows.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-instagrams-hidden-gems-how-to-upload-large-amounts-of-content/"><u>[New] In 2024, Instagram's Hidden Gems How to Upload Large Amounts of Content</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1726225255032-wmv-movavi/"><u>簡単な手順でWMV変換 – Movaviのようなサービスを見つけよう</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/1728504421610-windows-11/"><u>簡單四技巧：在 Windows 11 系統上轉移或傳送檔案</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-xiaomi-13-ultra-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Xiaomi 13 Ultra</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/besorgt-kostenlosen-anrufbeantworter-fur-ihr-iphone-modell-x-y-oder-z/"><u>Besorgt Kostenlosen Anrufbeantworter Für Ihr iPhone Modell X, Y Oder Z</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/deciphering-chatgpts-character-quota-tips-on-extending-dialogue-capacity/"><u>Deciphering ChatGPT's Character Quota: Tips on Extending Dialogue Capacity</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/effortless-setup-enabling-safe-mode-on-vmware-windows-11-using-simple-techniques/"><u>Effortless Setup: Enabling Safe Mode on VMware Windows 11 Using Simple Techniques</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/erver-2016-a-step-by-step-guide/"><u>Erver 2016: A Step-by-Step Guide</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/google-meetings-archive/"><u>Google Meetings Archive</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-on-motorola-razr-40-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Motorola Razr 40 FRP Bypass</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/kostlos-sichere-optionen-fur-das-backup-und-wiederherstellungsverfahren-unter-windows-t-7/"><u>Kostlos Sichere Optionen Für Das Backup- Und Wiederherstellungsverfahren Unter Windows T 7</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/protection-digitale-gestion-efficiente-des-sauvegardes-avec-le-logiciel-de-centralisation-daomei-cyber-backup/"><u>Protection Digitale: Gestion Efficiente Des Sauvegardes Avec Le Logiciel De Centralisation D'AOMEI Cyber Backup</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/quick-fix-restoring-your-lost-windows-10-sticky-notes-with-simple-methods/"><u>Quick Fix: Restoring Your Lost Windows 10 Sticky Notes with Simple Methods</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/revolutionize-your-memes-with-these-7-top-gif-creation-techniques-for-2024/"><u>Revolutionize Your Memes with These 7 Top GIF Creation Techniques for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/safeguard-digital-realm-stop-bot-harvesters/"><u>Safeguard Digital Realm: Stop Bot Harvesters</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/say-goodbye-to-persistent-glaring-asus-fix-guide/"><u>Say Goodbye to Persistent Glaring: ASUS Fix Guide</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/steps-zum-wiederherstellen-geloschter-png-bilder-auf-windows-1011/"><u>Steps Zum Wiederherstellen Gelöschter PNG-Bilder Auf Windows 10/11</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-complete-walkthrough-for-assessing-monthly-data-usage-on-devices/"><u>The Complete Walkthrough for Assessing Monthly Data Usage on Devices</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/troubleshooting-formatting-issues-on-your-dash-cams-sd-card/"><u>Troubleshooting Formatting Issues on Your Dash Cam's SD Card</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-navigating-youtube-skip-the-top-8-novice-missteps/"><u>[New] 2024 Approved Navigating YouTube Skip the Top 8 Novice Missteps!</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-the-art-of-online-podcast-filming/"><u>[New] 2024 Approved The Art of Online Podcast Filming</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-creating-a-memorable-tiktok-end-credits/"><u>[New] In 2024, Creating a Memorable TikTok End Credits</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-11-year-olds-financial-rise-via-youtube-stardom/"><u>[Updated] In 2024, 11-Year-Old's Financial Rise via YouTube Stardom</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-the-true-score-analyzing-recordcasts-performance/"><u>2024 Approved The True Score Analyzing RecordCast's Performance</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-itel-p55-5g-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Itel P55 5G? | Dr.fone</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/bestfreie-klon-anwendungen-fur-windows-8-bis-11-professionelle-losungen-ohne-kosten/"><u>Bestfreie Klon-Anwendungen Für Windows 8 Bis 11 - Professionelle Lösungen Ohne Kosten</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-does-a-trusted-platform-module-tpm-integration-elevate-windows-11-security-standards/"><u>How Does a Trusted Platform Module (TPM) Integration Elevate Windows 11 Security Standards?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-oneplus-ace-2-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On OnePlus Ace 2 | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-step-by-step-guide-to-perfecting-videos-on-a-pc-for-youtubers/"><u>In 2024, Step-by-Step Guide to Perfecting Videos on a PC for YouTubers</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/lost-deleted-notes-from-your-ipad-and-no-backup-discover-the-steps-for-retrieval/"><u>Lost Deleted Notes From Your iPad and No Backup? Discover the Steps for Retrieval!</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/oops-encountering-a-glitch-in-language-strategies-and-suggestions-to-overcome-wordly-mishaps/"><u>Oops! Encountering a Glitch in Language: Strategies and Suggestions to Overcome Wordly Mishaps</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/recover-deleted-items-from-windows-10-recycle-bin-a-4-step-guide/"><u>Recover Deleted Items From Windows 10 Recycle Bin: A 4-Step Guide</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/recover-lost-excel-spreadsheets-on-windows-11-a-guide-to-four-successful-approaches/"><u>Recover Lost Excel Spreadsheets on Windows 11: A Guide to Four Successful Approaches</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-issue-prompt-fixes-for-service-unresponsive-timeout-error-1053/"><u>Resolved Issue: Prompt Fixes for Service Unresponsive Timeout (Error 1053)</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/1728500232697-synology-nas/"><u>Synology NASデバイスに保存したデータを外部ドライブへ安全に複写する方法</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/tecnicas-simples-para-sharing-de-arquivos-entre-muitos-pcs-por-rede-local/"><u>Técnicas Simples Para Sharing De Arquivos Entre Muitos PCs Por Rede Local</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/1728503296300-windows-10-windows-11/"><u>Windows 10 及 Windows 11起動修復故障糾正</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/windows-11-desktop-suddenly-vanishes-discover-our-top-7-solutions/"><u>Windows 11 Desktop Suddenly Vanishes? Discover Our Top 7 Solutions</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Windows Server 201N儲存至外置HDD兩條路線
-date: 2025-01-22T18:32:04.798Z
-updated: 2025-01-23T23:20:18.837Z
+date: 2025-03-01T19:08:18.562Z
+updated: 2025-03-03T17:40:12.682Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/d594c9f97f5c7acf04e5131f6f5a4cdb7d19c04f53e109e380d118d9fb18d3fe.jpg
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/d594c9f97f5c7acf04e5131f6f5a4cdb7d19c04f5
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Recover Files from Ransomware Attack \[Full Guide 2022\]
 
@@ -52,17 +48,9 @@ If you are looking for methods on how to recover ransomware-infected files, you 
 
 [![Recover Files From Ransomware](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/others/recover-files-from-ransomware.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to recover files from ransomware attack in 4 ways
 
 Many solutions are available for you to solve how to recover data from ransomware attacks. We have selected some easy-to-implement methods for you. Read below for detailed information. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 1\. Recover files from ransomware with data recovery software
 
@@ -96,10 +84,6 @@ You can expand the Deleted files folder and Other missing files folder to select
 
 [![Select Deleted Excel Files Click Recover](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows-recovery/select-deleted-excel-files-click-recover.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 2\. Recover ransomware infected files via Backup and Restore
 
 If you have a backup available, restoring files is as simple as ABC. You can easily recover encrypted files by finding the corresponding backup file and restoring the data you need. But this option is possible only when you regularly back up your data.
@@ -113,10 +97,6 @@ Step 1\. Open **Control Panel** and click on **System and Security**. Then, hit 
 Step 2\. Tap on the **Restore my files** position in the Restore tab.
 
 ![Windows Backup Restore My Files](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 3\. Click **Browse for files** to locate your lost data and choose to save your recovered files in your original location or another destination as needed.
 
@@ -148,10 +128,6 @@ Step 1\. Press **Win + S** to open the Windows search box, type **Create a resto
 
 [![Create A Restore Point Open](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/create-a-restore-point-open.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 2\. Click on **System Restore** \> **Next**.
 
 [![System Drive On System Restore Next](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/system-drive-on-system-restore-next.png)
@@ -166,10 +142,6 @@ If there is no restore point, it might be because the system protection isn't tu
 
 [![Turn On System Protection Ok](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/turn-on-system-protection-ok.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Notes:✎...
 
 Some ransomware decryption tools can help to decrypt files encrypted by ransomware. However, such tools do not fully guarantee that ransomware-encrypted files can be recovered. Thus, recovering files infected by ransomware using a ransomware recovery service like MyRecover or with the help of a backup file are the easiest and most workable ways.
@@ -182,10 +154,6 @@ To prevent ransomware from attacking your computer and files again, we list seve
 * Don't click on emails and connections sent by strangers.
 * Report ransomware attacks to let authorities identify the attacker.
 * Regularly back up important data in case of emergencies.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -231,15 +199,7 @@ Recover deleted & lost data from any disasters in Windows.
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Clean & Secure
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.ubackup.com/resource/images/ub-mr-theme/ub-article-mr-img-dibu.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -256,22 +216,24 @@ Recover deleted & lost data from any disasters in Windows.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-watch-over-instagrams-friendship-shifts/"><u>[New] 2024 Approved Watch Over Instagram's Friendship Shifts</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-how-to-render-and-upload-your-youtube-video-faster/"><u>[Updated] How to Render and Upload Your YouTube Video Faster?</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-sns-hdr-pro-review-is-it-worth-using-and-what-other-hdr-software-to-u/"><u>[Updated] SNS HDR Pro Review Is It Worth Using and What Other HDR Software to U</u></a></li>
-<li><a href="https://windows11.techidaily.com/3-ways-to-adjust-the-mouse-double-click-speed-on-windows/"><u>3 Ways to Adjust the Mouse Double-Click Speed on Windows</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/2tbmbr3tbgpt/"><u>成功将2TBMBR耗存转换为3TBGPT并节省空间</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/1728506288403-windows-1011nvme-ssd/"><u>如何完美复制Windows 10和11到NVMe SSD：细致入微的全解决方案</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/comparing-robocopy-and-advanced-data-transfer-tools-optimizing-for-change-only-backups/"><u>Comparing Robocopy and Advanced Data Transfer Tools: Optimizing for Change-Only Backups</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/comprendre-comment-enregistrer-et-revenir-a-des-fichiers-avec-windows-11/"><u>Comprendre Comment Enregistrer Et Revenir À Des Fichiers Avec Windows 11</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/easy-steps-on-how-to-create-a-new-apple-id-account-on-apple-iphone-14-plus-drfone-by-drfone-ios/"><u>Easy Steps on How To Create a New Apple ID Account On Apple iPhone 14 Plus | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-the-new-features-of-the-2022-nacon-revolution-x-pro-controller-an-in-depth-zdnet-review/"><u>Exploring the New Features of the 2022 Nacon Revolution X Pro Controller: An In-Depth ZDNet Review</u></a></li>
-<li><a href="https://common-error.techidaily.com/graphics-card-update-resolves-miracast-connectivity-issue/"><u>Graphics Card Update Resolves Miracast Connectivity Issue</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/how-to-quickly-save-and-restore-pc-data-on-windows-1011-via-online-services/"><u>How To Quickly Save & Restore PC Data on Windows 10/11 via Online Services</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-oneplus-nord-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On OnePlus Nord 3 5G | Dr.fone</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/navigasi-dalam-menyederhanakan-proses-penjadwalan-pernulai-namainya-sistem-operasi-windows-11/"><u>Navigasi Dalam Menyederhanakan Proses Penjadwalan Pernulai Namainya Sistem Operasi Windows 11</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/strategie-piu-semplici-per-eseguire-backup-dei-tuoi-messaggi-di-posta-elettronica-pop3-utilizzando-outlook/"><u>Strategie Più Semplici per Eseguire Backup Dei Tuoi Messaggi Di Posta Elettronica POP3 Utilizzando Outlook</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/ultimate-guide-how-to-seamlessly-transfer-your-files-from-windows-10-to-windows-11/"><u>Ultimate Guide: How to Seamlessly Transfer Your Files From Windows 10 to Windows 11</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unleashing-the-power-of-ai-explore-these-8-methods-for-using-chatgpts-visual-skills/"><u>Unleashing the Power of AI: Explore These 8 Methods for Using ChatGPT's Visual Skills</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-decoding-the-secrets-of-stardew-valley-with-a-focus-on-its-mysterious-ginger-isle/"><u>[New] In 2024, Decoding the Secrets of Stardew Valley with a Focus on Its Mysterious Ginger Isle</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-aspect-ratio-fundamentals-for-effective-youtube-content-creation/"><u>[Updated] Aspect Ratio Fundamentals for Effective YouTube Content Creation</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/1-stunning-audi-q8-high-definition-desktop-wallpaper-collection-digital-artwork-by-yl-computing/"><u>1. Stunning Audi Q8 High-Definition Desktop Wallpaper Collection - Digital Artwork by YL Computing</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-polar-pinnacles-beijing-2022-olympic-spotlight/"><u>2024 Approved Polar Pinnacles Beijing 2022 Olympic Spotlight</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/addressing-no-audio-issues-in-chrome-for-seamless-playback-experience/"><u>Addressing No-Audio Issues in Chrome for Seamless Playback Experience</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/best-solutions-for-nubia-network-unlock-by-drfone-android/"><u>Best Solutions for Nubia Network Unlock</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/djs-journey-with-dex-3-and-songbookdb-authentic-user-endorsement/"><u>DJ's Journey with DEX 3 & SongbookDB - Authentic User Endorsement</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/exploring-the-timeline-of-chinas-great-proletarian-cultural-revolution-start-and-conclusion-dates-insights-by-yl-computing/"><u>Exploring the Timeline of China's Great Proletarian Cultural Revolution: Start and Conclusion Dates - Insights by YL Computing</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/how-to-fix-a-non-responsive-display-expert-tips-from-yl-computings-guide-on-dealing-with-unresponsive-monitors/"><u>How to Fix a Non-Responsive Display: Expert Tips From YL Computing's Guide on Dealing with Unresponsive Monitors</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/how-to-protect-your-crypto-assets-expert-strategies-from-yl-computing/"><u>How to Protect Your Crypto Assets: Expert Strategies From YL Computing</u></a></li>
+<li><a href="https://apple-account.techidaily.com/removing-device-from-apple-id-for-your-iphone-6s-by-drfone-ios/"><u>Removing Device From Apple ID For your iPhone 6s</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/step-by-step-guide-editing-images-with-windows-tips-from-yl-computing/"><u>Step-by-Step Guide: Editing Images with Windows - Tips From YL Computing</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/the-insiders-tutorial-on-hot-cue-techniques-with-pioneer-dex-iii-dj-gear-for-music-maestros/"><u>The Insider's Tutorial on Hot Cue Techniques with Pioneer DEX III DJ Gear for Music Maestros</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-samsung-galaxy-f54-5g-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Samsung Galaxy F54 5G Phone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-tips-for-scoring-amazing-october-2024-prime-day-discounts-on-high-performance-laptops/"><u>Top Tips for Scoring Amazing October 2024 Prime Day Discounts on High-Performance Laptops</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/transform-corporate-communication-with-elite-language-apps/"><u>Transform Corporate Communication with Elite Language Apps</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/understanding-what-drives-cryptocurrency-valuations-a-comprehensive-guide-by-yl-software/"><u>Understanding What Drives Cryptocurrency Valuations: A Comprehensive Guide by YL Software</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/winxmediatrans-superior-app-flawless-transfer-of-photos-and-music-videos-between-iphone-ipad-and-computer/"><u>WinXMediaTrans™: Superior App Flawless Transfer of Photos and Music Videos Between iPhone, iPad & Computer</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/zodia-the-newly-launched-sc-backed-blockchain-venture-takes-off-in-hong-kong-insights-by-yl-computing/"><u>Zodia: The Newly Launched SC-Backed Blockchain Venture Takes Off in Hong Kong - Insights by YL Computing</u></a></li>
 </ul></div>
 

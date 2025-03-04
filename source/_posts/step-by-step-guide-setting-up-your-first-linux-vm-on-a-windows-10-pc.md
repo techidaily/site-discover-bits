@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Setting Up Your First Linux VM on a Windows 10 PC"
-date: 2025-01-21T08:31:41.020Z
-updated: 2025-01-23T22:49:38.836Z
+date: 2025-02-28T17:59:38.868Z
+updated: 2025-03-04T01:18:44.714Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/749e7224dc77351db9654f3d5b625401a4538e3e09d897a36274e3de6aadbd39.jpg
@@ -28,10 +28,6 @@ By[Maggie](https://tools.techidaily.com/ubackup/products/)Updated on December 28
 
 Share this: ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Table of Contents** 
 
 1. [User case: Windows 11 winload.efi missing, F8 button not working](https://tools.techidaily.com/ubackup/products/)
@@ -53,10 +49,6 @@ My HP is not starting up. I’ve received the ‘winload efi is missing or corru
 [![Winload.efi Error 0xc0000225](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/winload-efi-after-clone/winload-efi-error-0xc0000225.png "Winload.efi Error 0xc0000225")
 
 If you meet similar problems that you can’t find winload.efi, you have been in the right place. Here is a collection of methods to solve ‘winload.efi missing Windows 11 issue. Let’s start to go!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## About winload.efi file
 
@@ -86,10 +78,6 @@ Furthermore, AOMEI Backupper proves invaluable in tackling various problems such
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-logo-ab-32.svg)AOMEI Backupper
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Best free bootable media creation tool
 
 [**Download Freeware** Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/)
@@ -97,10 +85,6 @@ Best free bootable media creation tool
 Step 1\. Download this software and open it. Click **Tools** and then choose **Create Bootable Media**.
 
 [![Create Bootable Meida](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/adv/tools/create-bootable-media/create-bootable-meida.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 2\. Select a type of bootable media you want to create and click **Next** to continue. For better performance, the **Windows PE bootable disc** is recommended.
 
@@ -113,10 +97,6 @@ Step 3\. Select the CD, DVD, USB drive or ISO file as bootable media. Then click
 After creating bootable media (just a few minutes), boot your computer from this media, then AOMEI Backupper will run automatically, then go to **Tools** \-> **Windows Shell Command**. And you can restore system image or disk image created by AOMEI Backupper. 
 
 [![Windows Shell Command](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/adv/tools/windows-shell-command.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Option 2\. Disable Secure Boot
 
@@ -147,10 +127,6 @@ Step 2\. Boot the system from the USB and choose **Repair your Computer**.
 Step 3\. Select **Troubleshoot** and then **Command Prompt**.
 
 [![Command Prompt](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/windows-10-startup-repair/advanced-options.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 4\. Type or paste the following command and press **Enter**:
 
@@ -218,10 +194,6 @@ Step 4\. Assign the partition a drive letter. Enter each of the following comman
 
 Step 5\. Restart your computer after successfully repairing the EFI loader.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Suggestion: backup your crucial loading files in advance
 
 A reliable backup software like [AOMEI Backupper Standard](https://tools.techidaily.com/ubackup/products/) allows you to create a bootable disc and system backup, preventing startup loop errors and addressing various computer failures. In the event of a system crash, you can restore the system image to a new hard drive and regain normal functionality. AOMEI Backupper Standard offers numerous advantages for seamless backup and recovery processes.
@@ -237,10 +209,6 @@ You just need to download this software and install it. Open it and navigate to 
 [**Download Freeware** Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/)
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-20.svg) 100% Secure
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [![System Backup](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/backup/system-backup/system-backup.png)
 
@@ -259,10 +227,6 @@ Was the provided information useful? Your vote is important to us!
 [Maggie](https://tools.techidaily.com/ubackup/products/) · Editor
 
 Maggie is a technical editor from AOMEI and troubleshoots technical problems against data protection. She has received professional and systematic technical training. With a focus on user experience, security, and problem-solving, she always puts herself in the readers' shoes and provides them with valuable technical insights.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Related Articles
 
@@ -292,10 +256,6 @@ Safeguard any data of your computer with backup, sync and clone.
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Clean & Secure
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
 <ins class="adsbygoogle"
@@ -313,24 +273,17 @@ Safeguard any data of your computer with backup, sync and clone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-crafting-viral-videos-on-youtube-a-strategic-plan/"><u>[New] In 2024, Crafting Viral Videos on YouTube A Strategic Plan</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/treamline-your-videography-journey-choose-from-the-top-8-free-tools/"><u>[New] Streamline Your Videography Journey Choose From the Top 8 Free Tools</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/1726029584691-tar/"><u>「Tar形式ファイルの最適な圧縮方法について学ぶポイント集」</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/1726028434227-usb/"><u>「USBを使って車載でも音楽再生方法！専門家による簡単チュートリアル」</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/1726027065719-vbrcbr/"><u>動画・オーディオコンテンツをVBRから一定ビットレート(CBR)に効率的変換の技術</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/90windows-11115/"><u>動画90度回転・保存方法：Windows 11/11で選べば楽しい範囲5つ</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/1726030322324-pc7/"><u>無料・有料問わずPC向けリッチ実況ビデオ記録ソフト7選ベストセレクション</u></a></li>
-<li><a href="https://win-hot.techidaily.com/aomei-backupper-free-advanced-task-scheduler-enhancer-for-windows/"><u>AOMEI Backupper: FREE Advanced Task Scheduler Enhancer for Windows</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/asfmp4/"><u>ASFからMP4へ迅速に変換する世界一のビデオコンバータプログラム</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/avoiding-mistakes-while-publishing-videos-on-linkedin-expert-tips-and-tricks/"><u>Avoiding Mistakes While Publishing Videos on LinkedIn: Expert Tips and Tricks</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-xiaomi-civi-3-disney-100th-anniversary-edition-device-sim-by-drfone-android/"><u>Easily Unlock Your Xiaomi Civi 3 Disney 100th Anniversary Edition Device SIM</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-exe-files-contrast-with-standard-msi-packages/"><u>How Exe Files Contrast with Standard Msi Packages</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-infinix-hot-40-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Infinix Hot 40 Pro | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-unleashing-the-power-of-hashtags-for-instagram-success/"><u>In 2024, Unleashing the Power of Hashtags for Instagram Success</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/1726029791016-mp4mkv/"><u>MP4からMKVへの迅速な大量変換技術 - 完全品質保持</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/optimizing-gameplay-experience-resolving-fps-dips-in-the-dragons-dogma-ii-adventure/"><u>Optimizing Gameplay Experience: Resolving FPS Dips in the Dragon's Dogma II Adventure</u></a></li>
-<li><a href="https://extra-information.techidaily.com/photo-perfection-on-iphones-and-androids-blurring-basics/"><u>Photo Perfection on iPhones & Androids Blurring Basics</u></a></li>
-<li><a href="https://win11.techidaily.com/seamless-syncs-restored-overcome-google-drive-pc-challenges/"><u>Seamless Syncs Restored: Overcome Google Drive PC Challenges</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/1726029296115-dvd/"><u>ダビングで始めるパワーディレクター：DVDからの主要映像統合ガイド</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-ranking-the-best-free-passport-picture-services-worldwide/"><u>[Updated] Ranking the Best Free Passport Picture Services Worldwide</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-top-ranked-switch-console-simulations-online/"><u>[Updated] Top-Ranked Switch Console Simulations Online</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-samsung-galaxy-xcover-6-pro-tactical-edition-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Samsung Galaxy XCover 6 Pro Tactical Edition Activity | Dr.fone</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/deciphering-spear-phishing-vs-traditional-hacking-techniques-what-sets-them-apart/"><u>Deciphering Spear Phishing Vs. Traditional Hacking Techniques: What Sets Them Apart?</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/entendiendo-y-aplicando-los-requisitos-fundamentales-del-sistema/"><u>Entendiendo Y Aplicando Los Requisitos Fundamentales Del Sistema</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/error-404-the-link-is-broken/"><u>Error 404: The Link Is Broken</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/metodo-sencillo-para-mover-tu-disco-duro-con-windows-11-a-un-equipo-nuevo-guia-completa/"><u>Método Sencillo Para Mover Tu Disco Duro Con Windows 11 a Un Equipo Nuevo: Guía Completa</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/schritt-fur-schritt-anleitung-zum-erstellen-von-backups-auf-dem-windows-server-2003/"><u>Schritt-Für-Schritt-Anleitung Zum Erstellen Von Backups Auf Dem Windows Server 2003</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solving-the-mystery-of-minecraft-error-code-1-in-windows-a-step-by-step-guide/"><u>Solving the Mystery of Minecraft Error Code 1 in Windows: A Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-repairing-a-nonfunctional-corsair-virtuoso-mic/"><u>Step-by-Step Guide: Repairing a Nonfunctional Corsair Virtuoso Mic</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/step-by-step-tutorial-on-creating-amazing-slow-mo-footage/"><u>Step-by-Step Tutorial on Creating Amazing Slow-Mo Footage</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/transform-your-chm-files-into-engaging-ebooks-with-flipbuilder-easy-conversion-guide/"><u>Transform Your CHM Files Into Engaging eBooks with FlipBuilder - Easy Conversion Guide</u></a></li>
 </ul></div>
 

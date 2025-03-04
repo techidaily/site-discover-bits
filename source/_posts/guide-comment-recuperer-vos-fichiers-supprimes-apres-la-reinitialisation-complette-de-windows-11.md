@@ -1,7 +1,7 @@
 ---
 title: "Guide : Comment Récupérer Vos Fichiers Supprimés Après La Réinitialisation Complette De Windows 11 ?"
-date: 2025-01-17T23:09:35.817Z
-updated: 2025-01-24T04:45:58.629Z
+date: 2025-02-25T21:40:28.034Z
+updated: 2025-03-04T00:45:08.054Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/ab3bfec296887a8d448d8e35c0b03544ab7fa85c994173438d04396b799c480a.jpg
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/ab3bfec296887a8d448d8e35c0b03544ab7fa85c9
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Use Norton Ghost in Windows 11, 10, 8, 7
 
@@ -54,27 +50,15 @@ Share this: ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-arti
 | **Pros**      | **✔** Established reputation **✔** Powerful imaging and cloning **✔** Support for RAID arrays                                                                                                                                                                                    | **✔** User-friendly interface **✔** Active development **✔** Comprehensive backup and clone solutions                                                                                                                                                                                         |
 | **Cons**      | **✖** Discontinued **✖** Complex interface **✖** Compatibility issues                                                                                                                                                                                                            | **✖** Advanced features locked in the free version                                                                                                                                                                                                                                            |
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## About Norton Ghost
 
 Norton Ghost is one **disk imaging and cloning tool** that firstly developed in the 1990s. It can help you make backup images of the whole hard disk, selected partitions or only those files that mean the most to you. When something goes wrong, Norton Ghost can [restore your computer to previous functional status](https://tools.techidaily.com/ubackup/products/). Besides, it can also help you clone one hard drive to another hard drive.
 
 In a word, if you want to make an image back for your computer or want to clone to the new hard drive, Norton Ghost is not a bad choice. However, now Norton Ghost is **no longer available for the Home user**. It was **discontinued by Symantec in 2013**. Indeed you can still download the latest version - Norton Ghost 15, but it only offers a 30-day free trial and then you need to pay for it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Use Norton Ghost 15 Step by Step
 
 Here in this guide, you will get the detailed steps about how to use Symantec Ghost in Windows 11/10/8/7\. You can simply search “**Norton Ghost 15 download**” via your browser to get the tool. As we have mentioned above, it only offers a 30-day free trial. If you prefer a free tool to help you backup, restore or clone your hard drive, you can refer to the [next part](https://tools.techidaily.com/ubackup/products/) to get the best free alternative to Norton Ghost.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Image Your Computer with Norton Ghost
 
@@ -83,10 +67,6 @@ Here in this guide, you will get the detailed steps about how to use Symantec Gh
 2\. On the Home screen, you can create a backup task by clicking **Define Backup Wizard** or **Run or Manage Backups**. Here we choose the latter one.
 
 [![Create Backup](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/norton-ghost/create-backup.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3\. The **Easy Setup** screen will appear.
 
@@ -184,28 +164,16 @@ If you have created a backup with AOMEI Backupper, you can easily perform a rest
 
 [![Disk Image Explore Home](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/adv/tools/explore-image/home-explore-image-disk.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Clone Hard Drive
 
 You can directly clone hard drive to another one with the **[Disk Clone](https://tools.techidaily.com/ubackup/products/)** feature. If you are cloning HDD to SSD, you can make use of the "**SSD Alignment**" feature to improve the read/write speed of the destination SSD.
 
 [![Clone](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/main-interface/clone.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 👉 **Notes:** 
 
 * The free version of AOMEI Backupper only supports cloning a data disk. To clone a disk with OS installed, you can [upgrade](https://tools.techidaily.com/ubackup/products/) to higher versions to enjoy it.
 * The [System Clone](https://tools.techidaily.com/ubackup/products/) feature can help you only clone system to new hard drive, which uses less disk space than disk clone. Also, it requires a higher version.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -265,10 +233,6 @@ Was the provided information useful? Your vote is important to us!
 
 [Yes](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Free Get AOMEI Backupper Now
 
 Safeguard any data of your computer with backup, sync and clone.
@@ -278,10 +242,6 @@ Safeguard any data of your computer with backup, sync and clone.
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Clean & Secure
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -298,24 +258,21 @@ Safeguard any data of your computer with backup, sync and clone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-unraveling-successs-secrets-how-to-amass-more-subscribers-on-youtube/"><u>[New] 2024 Approved Unraveling Success's Secrets How to Amass More Subscribers on YouTube</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-dive-into-haul-video-making-a-beginners-editing-roadmap-for-2024/"><u>[New] Dive Into Haul Video Making A Beginner's Editing Roadmap for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-stepping-stones-from-youtube-ads-to-monetary-success/"><u>[New] Stepping Stones From YouTube Ads to Monetary Success</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-pro-graphic-rigs-mastering-4k-titles/"><u>[Updated] Pro Graphic Rigs Mastering 4K Titles</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-pioneering-audio-enhancement-for-compelling-visual-stories/"><u>2024 Approved Pioneering Audio Enhancement for Compelling Visual Stories</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/bitcoin-boom-alert-matrixport-and-yl-software-predict-a-steep-climb-to-45k-in-end-of-year-rally/"><u>Bitcoin Boom Alert! Matrixport & YL Software Predict a Steep Climb to $45K in End of Year Rally.</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/can-you-use-this-scanner-on-a-windows-10-system-find-out-with-yl-software-solutions/"><u>Can You Use This Scanner on a Windows 10 System? Find Out with YL Software Solutions</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-vivo-v30-pro-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On Vivo V30 Pro without Anyone Knowing | Dr.fone</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/is-your-pc-protected-understanding-how-windows-defender-scans-for-malware/"><u>Is Your PC Protected?: Understanding How Windows Defender Scans for Malware</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/mastering-sound-on-the-go-unveiling-the-8-best-ios-daws-for-ipad-and-iphone-for-2024/"><u>Mastering Sound on the Go Unveiling the 8 Best iOS DAWs for iPad and iPhone for 2024</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/pcdj-essentials-mastering-data-preservation-with-easy-guide-on-saving-and-retrieving-dex-amoeba-databases/"><u>PCDJ Essentials: Mastering Data Preservation with Easy Guide on Saving & Retrieving DEX Amoeba Databases</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/prehistoric-pixel-paradise-jurassic-world-vistas-dynamic-desktops-and-digital-decor-from-yl-software/"><u>Prehistoric Pixel Paradise: Jurassic World Vistas - Dynamic Desktops & Digital Decor From YL Software</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/resolving-the-issue-when-wininetdll-cant-be-located/"><u>Resolving the Issue: When Wininet.dll Can't Be Located</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/step-by-step-tutorial-on-utilizing-apples-latest-live-entertainment-service/"><u>Step-by-Step Tutorial on Utilizing Apple's Latest Live Entertainment Service!</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-power-of-pacing-keeping-your-audience-glued-to-the-screen-for-2024/"><u>The Power of Pacing Keeping Your Audience Glued to the Screen for 2024</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/troubleshooting-your-non-functional-cd-player-expert-tips-from-yl-computing/"><u>Troubleshooting Your Non-Functional CD Player: Expert Tips From YL Computing</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/understanding-common-factors-leading-to-motherboard-issues-expertise-by-yl-software-team/"><u>Understanding Common Factors Leading to Motherboard Issues - Expertise by YL Software Team</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/understanding-your-pc-what-makes-a-mouse-fail-to-respond-insights-by-yl-computing/"><u>Understanding Your PC: What Makes a Mouse Fail to Respond - Insights by YL Computing</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/unleash-your-inner-star-with-our-premium-karaoke-subscription-service-elevate-every-celebration-now/"><u>Unleash Your Inner Star with Our Premium Karaoke Subscription Service - Elevate Every Celebration Now!</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-decreasing-decibels-a-step-by-step-guide-to-softening-sound-in-premiere-pro/"><u>[Updated] In 2024, Decreasing Decibels A Step-by-Step Guide to Softening Sound in Premiere Pro</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-update-drivers-hp-laserjet-m506-all-in-one-printer/"><u>Download and Update Drivers: HP LaserJet M506 All-in-One Printer</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/dvd-ripping-techniques-for-free-no-cost-methods/"><u>DVD-Ripping Techniques for Free - No Cost Methods</u></a></li>
+<li><a href="https://facebook.techidaily.com/hack-proofing-your-life-on-social-platform-fb-with-these-7-rules/"><u>Hack-Proofing Your Life on Social Platform (FB) with These 7 Rules</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-realme-c51-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Realme C51 to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-nubia-red-magic-8s-proplus-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Nubia Red Magic 8S Pro+ via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-asus-rog-phone-8-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Asus ROG Phone 8 to New Android? | Dr.fone</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/step-by-step-guide-transforming-mp4-videos-into-xvid-format/"><u>Step-by-Step Guide: Transforming MP4 Videos Into Xvid Format</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/step-by-step-tutorial-mov-to-mp4-conversion-online-solutions-and-local-software-options/"><u>Step-by-Step Tutorial: MOV to MP4 Conversion – Online Solutions and Local Software Options</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/the-ultimate-guide-to-efficiently-switching-from-mp4-to-vob-on-pcmac-and-via-the-web/"><u>The Ultimate Guide to Efficiently Switching From MP4 to VOB on PC/Mac and Via the Web</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/the-ultimate-guide-to-gratis-wmv-to-flv-converters-best-tools-for-effortless-onlineoffline-conversion/"><u>The Ultimate Guide to Gratis WMV to FLV Converters - Best Tools for Effortless Online/Offline Conversion</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/the-ultimate-list-of-top-rated-sites-to-stream-chinese-cinema-and-series-at-no-cost/"><u>The Ultimate List of Top-Rated Sites to Stream Chinese Cinema & Series at No Cost</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/top-5-no-cost-substitutes-for-windows-dvd-creator-on-windows-10-2024-edition/"><u>Top 5 No-Cost Substitutes for Windows DVD Creator on Windows 10 - 2024 Edition</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/top-5-websites-offering-complimentary-downloads-of-quality-sound-effects/"><u>Top 5 Websites Offering Complimentary Downloads of Quality Sound Effects</u></a></li>
+<li><a href="https://apple-account.techidaily.com/turning-off-two-factor-authentication-on-apple-iphone-7-5-tips-you-must-know-by-drfone-ios/"><u>Turning Off Two Factor Authentication On Apple iPhone 7? 5 Tips You Must Know</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/updating-your-devices-drivers-a-step-by-step-guide-yl-computing/"><u>Updating Your Device's Drivers: A Step-by-Step Guide - YL Computing</u></a></li>
 </ul></div>
 

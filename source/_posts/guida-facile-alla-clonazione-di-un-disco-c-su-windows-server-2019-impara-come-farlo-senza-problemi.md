@@ -1,7 +1,7 @@
 ---
 title: "Guida Facile Alla Clonazione Di Un Disco C Su Windows Server 2019: Impara Come Farlo Senza Problemi!"
-date: 2025-01-16T22:13:48.525Z
-updated: 2025-01-23T22:09:08.842Z
+date: 2025-02-24T20:13:32.073Z
+updated: 2025-03-03T18:01:45.399Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/0e72a3a0b1e0fbcb9ebe861989e8ef2804120ce5c4aff1602144d59f4707b3ef.jpg
@@ -43,10 +43,6 @@ NAS Buffalo est la solution idéale pour la protection des données et peut faci
 
 [![buffalo](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/others/image/nas-buffalo.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Ne vous inquiétez pas trop. Vous pouvez envisager d'utiliser un logiciel de sauvegarde NAS tiers pour vous aider. [AOMEI Backupper Standard](https://tools.techidaily.com/ubackup/products/) est un excellent choix en raison de sa grande compatibilité (prise en charge de Windows 7/8/10/11/XP/Vista), de sa gratuité, de sa facilité d'utilisation, de sa flexibilité et de ses fonctionnalités riches.
 
 ## Avantages du logiciel de sauvegarde NAS Buffalo - AOMEI Backupper Standard
@@ -69,10 +65,6 @@ Meilleur logiciel de sauvegarde Windows gratuit pour usage personnel.
 
 [**Télécharger gratuiciel** Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Comment utiliser le logiciel de sauvegarde NAS Buffalo pour Windows pour sauvegarder des fichiers
 
 Avant de commencer à sauvegarder des fichiers avec le logiciel de sauvegarde NAS Buffalo pour Windows, veuillez préparer un disque dur externe, une clé USB, etc. pour stocker l'image de sauvegarde. Ensuite, suivez attentivement les étapes ci-dessous.
@@ -93,10 +85,6 @@ Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 
 [![share/nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ouvrir.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le nom d'affichage, l'adresse IP, le nom d'utilisateur et le mot de passe pour connecter votre espace de stockage NAS Buffalo. Double-cliquez ensuite dessus dans le volet de gauche et sélectionnez ce que vous souhaitez sauvegarder dans la liste de droite.
 
 [![ajouter périphérique share ou nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/emplacement-reseau.png)
@@ -105,17 +93,9 @@ Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le no
 
 [![destination](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/choix-chemin-destinations.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Étape 4.** Pour rendre la sauvegarde simple et efficace, définissez une planification de sauvegarde quotidienne, hebdomadaire ou mensuelle dans l'endroit inférieur et cliquez sur **Démarrer** pour sauvegarder le NAS Buffalo. Si vous cochez la case Réveiller l'ordinateur pour exécuter les tâches planifiées, le logiciel s'ouvrira et exécutera automatiquement cette tâche.
 
 [![mode planifier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/mode-planifier.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Par défaut, ce logiciel créera une sauvegarde complète et 6 sauvegardes incrémentielles si vous définissez une tâche de sauvegarde planifiée. Cela peut entraîner un problème d'espace disque plein à long terme, il est donc recommandé d'activer le [Plan de sauvegarde](https://tools.techidaily.com/ubackup/products/) et de supprimer automatiquement les fichiers de sauvegarde. Pour profiter de ces fonctions, passez à l'édition [Professional](https://tools.techidaily.com/ubackup/products/).
 
@@ -140,10 +120,6 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 [Oui](https://tools.techidaily.com/ubackup/products/)[Non](https://tools.techidaily.com/ubackup/products/)
 
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [Aurore](https://tools.techidaily.com/ubackup/products/) · Éditeur
 
@@ -179,10 +155,6 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -198,21 +170,18 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discover-bits.techidaily.com/1-easy-guide-to-converting-videos-for-android-playback-step-by-step-formatting-instructions/"><u>1. Easy Guide to Converting Videos for Android Playback: Step-by-Step Formatting Instructions</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-remove-the-two-factor-authentication-on-apple-iphone-12-by-drfone-ios/"><u>How To Remove the Two Factor Authentication On Apple iPhone 12</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-nokia-c02-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Nokia C02 Location without Installing Software? | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/image-interpretation-illumination-ideal-photo-to-cartoony-tools/"><u>Image Interpretation Illumination Ideal Photo-to-Cartoony Tools</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-expert-recommended-5-top-drones-on-market/"><u>In 2024, Expert-Recommended 5 Top Drones on Market</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-infinix-hot-40-pro-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Infinix Hot 40 Pro</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-oppo-reno-10-pro-5g-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Oppo Reno 10 Pro 5G FRP Bypass</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/1726026593598-pc/"><u>PCでのアニメ動画のスクリーンレコーディング手順</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-tech-insights-in-depth-reviews-and-news-from-toms-hardware/"><u>Tom's Tech Insights: In-Depth Reviews & News From Tom's Hardware</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-itel-p55-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Itel P55 without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-critical-concerns-a-closer-look-at-chatgpts-shortcomings/"><u>Unveiling Critical Concerns: A Closer Look at ChatGPT's Shortcomings</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/watching-anime-legally-the-animeseason-site-and-more-options-for-streaming-episode-without-cost/"><u>Watching Anime Legally - The Animeseason Site & More Options for Streaming Episode Without Cost</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/webm-mp3/"><u>WEBMファイル音声抽出: MP3形式に完全移行方法</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/windows-11m2tsmp4top11/"><u>Windows 11上のM2TSファイルを優れた品質のMP4に最適な変換方法TOP11</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/wonderfox-ultra-fast-hd-dvd-and-video-format-conversion/"><u>WonderFox Ultra-Fast HD DVD & Video Format Conversion</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/worldwide-dvd-viewing-freedom-discover-the-top-3-strategies-for-bypassing-regional-lockouts-effortlessly/"><u>Worldwide DVD Viewing Freedom: Discover the Top 3 Strategies for Bypassing Regional Lockouts Effortlessly</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-guide-clearing-up-youtube-watchlater-stored-list/"><u>[New] 2024 Approved Guide Clearing Up YouTube Watchlater Stored List</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-celebrating-the-hottest-instagram-after-effects-plugins/"><u>[New] In 2024, Celebrating the Hottest Instagram After Effects Plugins</u></a></li>
+<li><a href="https://win-guides.techidaily.com/2022windows-pcword/"><u>2022年四大復原技術：對Windows PC友好的Word文件修復指南</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-dji-revolution-air-vs-spark-in-gaming-sphere/"><u>2024 Approved DJI Revolution Air Vs. Spark in Gaming Sphere</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/1728471053197-windows-server/"><u>異なるハードウェアへの移行が可能な Windows Server バックアップからのベアメタルリカバリ方法</u></a></li>
+<li><a href="https://games-able.techidaily.com/experience-different-chess-worlds-with-these-6-mobile-games/"><u>Experience Different Chess Worlds with These 6 Mobile Games</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/fast-solution-missing-restore-previous-versions-feature-on-windows-10/"><u>Fast Solution: Missing 'Restore Previous Versions' Feature on Windows 10</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/fix-internet-explorer-crashes-with-these-14-effective-strategies/"><u>Fix Internet Explorer Crashes with These 14 Effective Strategies!</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-vs-general-use-specialized-audio-equipment/"><u>Gaming Vs. General Use: Specialized Audio Equipment</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/guide-complet-comment-recuperer-des-fichiers-endommages-par-un-virus-a-laide-dune-cle-usb/"><u>Guide Complet - Comment Récupérer Des Fichiers Endommagés Par Un Virus À L'aide D'une Clé USB</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/guide-for-simple-backup-and-restoration-procedures-in-windows-server-2019/"><u>Guide for Simple Backup & Restoration Procedures in Windows Server 2019</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-lock-screen-wallpaper-on-samsung-galaxy-a23-5g-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Samsung Galaxy A23 5G</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-samsung-galaxy-a15-5g-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Samsung Galaxy A15 5G</u></a></li>
 </ul></div>
 

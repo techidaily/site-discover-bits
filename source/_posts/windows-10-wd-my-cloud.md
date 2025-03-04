@@ -1,7 +1,7 @@
 ---
 title: 易用自複錄手法：從 Windows 10 快速轉移至 WD My Cloud - 前所未見！
-date: 2025-01-16T23:22:12.070Z
-updated: 2025-01-24T03:34:35.695Z
+date: 2025-02-25T03:12:23.881Z
+updated: 2025-03-03T22:36:31.174Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/e8bfc69e4cfa6c5e7699d7a6d6fe4dbd7b3f6ecf37286ae295fb39576034b13a.jpg
@@ -27,10 +27,6 @@ Wie kann man den Papierkorb vom Desktop entfernen? Eine effiziente Methode finde
 Von[Holiday](https://tools.techidaily.com/ubackup/products/)/ Aktualisiert am 14.09.2024
 
 Teilen Sie dies: [![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg)](https://www.ubackup.com/de/data-recovery-disk/javascript:void%280%29;) [![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg)](https://www.ubackup.com/de/data-recovery-disk/javascript:void%280%29;) [![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg)](https://www.ubackup.com/de/data-recovery-disk/javascript:void%280%29;) [![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg)](https://www.ubackup.com/de/data-recovery-disk/javascript:void%280%29;) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Inhaltsverzeichnis** 
 
@@ -58,10 +54,6 @@ Um Speicherplatz freizugeben, leeren viele Benutzer ihren Papierkorb. Aber ist e
 
 Aber wenn der [Papierkorb als leer angezeigt wird](https://tools.techidaily.com/ubackup/products/), es aber nicht ist, was können Sie tun, um dies zu beheben? Lesen Sie bitte weiter, um die entsprechenden Methoden zu erhalten.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Teil 1\. Wie kann man den Papierkorb vom Desktop entfernen unter Windows 10?
 
 Vor der dauerhaften Löschung des Papierkorbs sollten Sie sicherstellen, dass keine wichtigen Dateien darin enthalten sind. Hier sind die Schritte, um das Papierkorbsymbol vom Desktop zu entfernen:
@@ -78,10 +70,6 @@ Vor der dauerhaften Löschung des Papierkorbs sollten Sie sicherstellen, dass ke
 
 [![Desktopsymbol-Einstellungen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/desktop-icon-settings.png "Desktopsymbol-Einstellungen")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Schritt 4**. Suchen Sie das „**Papierkorb**“-Symbol, entfernen Sie das Häkchen und bestätigen Sie mit „**Übernehmen**“ und „**OK**“.
 
 [![Papierkorb](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/check-recycle-bin-click-ok.png "Papierkorb")
@@ -97,10 +85,6 @@ Wenn Sie den Papierkorb mittels erhöhter Eingabeaufforderung zurücksetzen möc
 **Schritt 2**. Geben Sie „**rd /s /q C:\\Papierkorb**“ in das Eingabeaufforderungsfenster ein und drücken Sie „**Enter**“, um den Vorgang zu starten. Wenn erforderlich, ersetzen Sie das Laufwerk C durch Ihren gewünschten Laufwerksbuchstaben.
 
 [![cmd Papierkorb zurücksetzen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/command-prompt/cmd-reset-recycle-bin.png "cmd Papierkorb zurücksetzen")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Teil 3\. Wie kann man gelöschte Dateien aus dem Papierkorb nach dem Leeren wiederherstellen?
 
@@ -122,10 +106,6 @@ Sicherer Download
 
 [![Scan starten](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/data-recovery-disk/windows-recovery/select-c-to-scan.png "Scan starten")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Schritt 2**. Suchen Sie nach Ihren gewünschten Dateien oder warten Sie, um Ihre gelöschten und anderen fehlenden Dateien nach der Schnell- und Tiefenscan anzuzeigen.
 
 [![Laufwerk scannen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/data-recovery-disk/windows-recovery/scanning-drive.png "Laufwerk scannen")
@@ -133,10 +113,6 @@ Sicherer Download
 **Schritt 3**. Gehen Sie zum Papierkorb, um die gewünschten Dateien zu lokalisieren. Klicken Sie dann auf „**x Dateien wiederherstellen**“, um die ausgewählten Dateien wiederherzustellen. Speichern Sie diese wiederhergestellten Dateien bitte an einem neuen Ort.
 
 [![x Dateien wiederherstellen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/data-recovery-disk/windows-recovery/select-deleted-excel-files-click-recover.png "x Dateien wiederherstellen")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Bonus-Tipps: Wie verhindert man Datenverlust auf Computern?**
 
@@ -169,15 +145,7 @@ Sicherer Download
 
 [![Ordner hinzufügen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/de/std/backup/file-backup/add-folder.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Schritt 4**. Nach Abschluss des Sicherungsvorgangs klicken Sie auf „Fertig“, um das Fenster zu schließen.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Zusammenfassung
 
@@ -214,10 +182,6 @@ Waren die angebotenen Informationen nützlich? Ihre Stimme ist wichtig für uns!
 [Holiday](https://tools.techidaily.com/ubackup/products/) · Editor
 
 Holiday ist seit dem 1\. Juni 2020 bei AOMEI und beschäftigt sich mit Sichern & Wiederherstellen, Festplatten- und Partitionsverwaltung usw. für AOMEI. Ob Arbeit, Studien oder Leben, sie versucht gerne, neue Dinge zu lernen und denkt, dass Überraschungen auf sie warten, egal wann und wo.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Folgende Artikel könnten Sie auch interessieren
 
@@ -268,20 +232,22 @@ Wiederherstellen von gelöschten und verlorenen Daten aus allen Katastrophen in 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-pros-choice-high-quality-4k-dslr-mounting-systems/"><u>[New] In 2024, Pro's Choice High-Quality 4K DSLR Mounting Systems</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-conquer-social-media-optimal-video-converters-for-twitters/"><u>2024 Approved Conquer Social Media Optimal Video Converters for Twitters</u></a></li>
-<li><a href="https://fox-http.techidaily.com/gigglygraphics-mememakers-haven/"><u>GigglyGraphics MemeMaker's Haven</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/guide-connecting-your-logitech-wireless-mouse-with-an-alternative-usb-receiver/"><u>Guide: Connecting Your Logitech Wireless Mouse with an Alternative USB Receiver</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-xiaomi-mix-fold-3-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Xiaomi Mix Fold 3?</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-from-beginner-to-expert-the-ultimate-guide-to-hp-screen-recording/"><u>In 2024, From Beginner to Expert The Ultimate Guide to HP Screen Recording</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-quick-playlist-streaming-your-mp3-music-library-online/"><u>In 2024, Quick Playlist Streaming Your MP3 Music Library Online</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/spread-the-word-on-how-to-convert-videos-for-free-with-nokias-handy-video-converter-app/"><u>Spread the Word on How to Convert Videos for Free with Nokia's Handy Video Converter App!</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/step-by-step-guide-transforming-mp4-videos-into-xvid-format/"><u>Step-by-Step Guide: Transforming MP4 Videos Into Xvid Format</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/step-by-step-tutorial-mov-to-mp4-conversion-online-solutions-and-local-software-options/"><u>Step-by-Step Tutorial: MOV to MP4 Conversion – Online Solutions and Local Software Options</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/the-ultimate-guide-to-efficiently-switching-from-mp4-to-vob-on-pcmac-and-via-the-web/"><u>The Ultimate Guide to Efficiently Switching From MP4 to VOB on PC/Mac and Via the Web</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/the-ultimate-guide-to-gratis-wmv-to-flv-converters-best-tools-for-effortless-onlineoffline-conversion/"><u>The Ultimate Guide to Gratis WMV to FLV Converters - Best Tools for Effortless Online/Offline Conversion</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/the-ultimate-list-of-top-rated-sites-to-stream-chinese-cinema-and-series-at-no-cost/"><u>The Ultimate List of Top-Rated Sites to Stream Chinese Cinema & Series at No Cost</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/top-5-no-cost-substitutes-for-windows-dvd-creator-on-windows-10-2024-edition/"><u>Top 5 No-Cost Substitutes for Windows DVD Creator on Windows 10 - 2024 Edition</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/vocal-choirs-on-tiktoks-digital-stage-for-2024/"><u>Vocal Choirs on TikTok's Digital Stage for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-secrets-of-efficient-virtual-seminar-capture/"><u>[New] 2024 Approved Secrets of Efficient Virtual Seminar Capture</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-leverage-canva-design-top-10-stealthy-methods-revealed/"><u>[New] Leverage Canva Design Top 10 Stealthy Methods Revealed</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-skyrocket-your-twitter-presence-through-livestreaming-for-2024/"><u>[New] Skyrocket Your Twitter Presence Through Livestreaming for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-virtual-voyage-youtubes-premier-10-vr-video-experience/"><u>[Updated] In 2024, Virtual Voyage YouTube's Premier 10-VR Video Experience</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/1-eliminating-malware-induced-search-and-shopping-traffic-hijacking-a-step-by-step-guide/"><u>1. Eliminating Malware-Induced Search & Shopping Traffic Hijacking: A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-sky-high-quality-unveiling-the-best-4k-video-converters/"><u>2024 Approved Sky-High Quality Unveiling the Best 4K Video Converters</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/complete-your-system-backup-next-steps-for-safely-powering-down-your-pc/"><u>Complete Your System Backup? Next Steps for Safely Powering Down Your PC</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/fehlerbehebung-fur-dysfunktionellen-icloud-speicher-bei-ios-versionen-15-und-16-schritt-fur-schritt-anleitung/"><u>Fehlerbehebung Für Dysfunktionellen iCloud-Speicher Bei iOS Versionen 15 Und 16 - Schritt-Für-Schritt Anleitung</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/get-your-imessage-history-from-iphone-onto-windows-11-easily/"><u>Get Your iMessage History From iPhone Onto Windows 11 Easily</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-nokia-c12-plus-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Nokia C12 Plus Pattern Lock Screen</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/laufwerksprobleme-in-windows-11-losen-effektive-start-up-methoden-zur-fehlerbehebung/"><u>Laufwerksprobleme in Windows 11 Lösen – Effektive Start-up-Methoden Zur Fehlerbehebung</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ct-and-unique-youtube-channel-names-for-professional-filmmakers-and-vloggers-no-more-than-156-characters-for-2024/"><u>Perfect & Unique Youtube Channel Names for Professional Filmmakers & Vloggers (No More than 156 Characters) for 2024</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/strategies-pour-transferer-vos-partitions-de-systeme-and-demarrage-entre-des-disques-individuels-methodes-pratiques-expliquees/"><u>Stratégies Pour Transférer Vos Partitions De Système & Démarrage Entre Des Disques Individuels - Méthodes Pratiques Expliquées</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/streamlined-sonic-experience-techniques-to-connect-and-configure-multiple-bluetooth-speakers-together/"><u>Streamlined Sonic Experience: Techniques to Connect and Configure Multiple Bluetooth Speakers Together</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/troubleshoot-and-fix-wukong-game-crashes-in-windows-winning-over-black-myth-woes/"><u>Troubleshoot & Fix Wukong Game Crashes in Windows – Winning Over Black Myth Woes!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlocking-lg-channel-strategies-key-information-revealed/"><u>Unlocking LG Channel Strategies: Key Information Revealed</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/windows-server-201nhdd/"><u>Windows Server 201N儲存至外置HDD兩條路線</u></a></li>
 </ul></div>
 

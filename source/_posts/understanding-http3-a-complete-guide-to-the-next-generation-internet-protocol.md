@@ -1,7 +1,7 @@
 ---
 title: "Understanding HTTP/3: A Complete Guide to the Next-Generation Internet Protocol"
-date: 2025-01-26T19:16:42.955Z
-updated: 2025-01-31T16:12:39.141Z
+date: 2025-03-01T03:23:43.829Z
+updated: 2025-03-03T16:14:15.299Z
 tags:
   - product
   - antivirus
@@ -40,10 +40,6 @@ Let’s take an acronyms and abbreviations filled look at HTTP/3, and how it aim
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What is HTTP/3?
 
 HTTP, as you are aware, is the system web browsers use to fetch data from web servers. It is the technology that is used to load web pages and other files and information from the Internet. And this third and latest version of HTTP is designed to offer a faster experience when browsing the web.
@@ -53,10 +49,6 @@ The reason for this is the use of a couple of new technologies that have recentl
 Basically, Google is leading the charge here with [QUIC](https://www.chromium.org/quic), its Quick UDP Internet Connections system that it publicly [unveiled](https://blog.chromium.org/2013/06/experimenting-with-quic.html) in 2013, and officially suggested three years later as a successor to HTTP/2\. It employs several impressive techniques to make webpages load faster, and even ditched TCP, another mainstay of networking since olden days.
 
 [![QUIC logo](https://www.malwarefox.com/wp-content/uploads/2019/03/quic_logo.png)](https://www.malwarefox.com/wp-content/uploads/2019/03/quic%5Flogo.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Without getting too technical,  QUIC cuts the number of times computers need to request data from a server when downloading information via HTTP .
 
@@ -96,10 +88,6 @@ As Google [illustrates](https://blog.chromium.org/2015/04/a-quic-update-on-googl
 
 In short, HTTP/3, powered by QUIC, cuts the number of times computers need to request data from a server, ultimately speeding up the transmissions and connectivity for everyone involved. It also improves security by including the SSL (Secure Sockets Layer) handshake in the setup. Plus, this new technology also reduces overhead in another key area, when multiple substreams are sent over a single connection.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## When will HTTP/3 be used?
 
 Soon. The transition has already begun, and slowly but surely the entire web will transition to this new standard. It was only in November 2018 that a [proposal](https://mailarchive.ietf.org/arch/msg/quic/RLRs4nB1lwFCZ%5F7k0iuz0ZBa35s) for HTTP-over-QUIC be called HTTP/3 was accepted by the [IEFT](https://www.ietf.org/), the Internet Engineering Task Force.
@@ -113,10 +101,6 @@ Admittedly, development on this end has been slow, with HTTP/1.1 seeing a releas
 As of this writing, just 1.3% of the 10 million [most popular websites](https://w3techs.com/technologies/history%5Foverview/site%5Felement/all) in the world use HTTP/3, compared to 31% using the older, HTTP/2 technology. That’s about 130,000 sites that are transmitting data over this new standard right now.
 
 But this number should change in the coming months and years, as adoption of the technology increases after it has now officially become a standard. Companies and developers have started to add support for HTTP/3 into their products and services — including browser makers, [online services](https://blog.cloudflare.com/the-road-to-quic/), and firms that create server solutions.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Brower support for HTTP/3
 
@@ -147,10 +131,6 @@ In reality, UDP/IP was invented back in 1980 by David P. Reed (<https://en.wikip
 QUIC (technically, QUIC over IP), by contrast, is a technology developed initially by Google, built on top of UDP/IP, providing a simple mechanism of establishing reliable, encrypted connections, but without the massive overhead required by TCP/IP.  
 [Reply](https://tools.techidaily.com/malwarefox/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Leave a Comment [Cancel reply](https://tools.techidaily.com/malwarefox/products/)
 
 Comment
@@ -176,17 +156,20 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-lit-tales-in-just-a-minute/"><u>[Updated] 2024 Approved Lit Tales in Just a Minute</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-nailing-iphone-snaps-top-editing-tricks/"><u>[Updated] Nailing iPhone Snaps Top Editing Tricks</u></a></li>
-<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-zte-nubia-flip-5g-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for ZTE Nubia Flip 5G | Dr.fone</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/free-secure-official-winx-movie-downloader-and-high-definition-video-transcoder/"><u>Free [SECURE]: Official WinX Movie Downloader & High-Definition Video Transcoder</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-disabled-iphone-13ipad-without-computer-by-drfone-ios/"><u>In 2024, How to Unlock Disabled iPhone 13/iPad Without Computer</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-resolve-your-apple-iphone-13-keeps-asking-for-outlook-password-by-drfone-ios/"><u>In 2024, Resolve Your Apple iPhone 13 Keeps Asking for Outlook Password</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-essentials-for-building-compelling-canon-time-lapses/"><u>The Essentials for Building Compelling Canon Time-Lapses</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/top-7-free-audio-editing-software-mp3-splitter-and-merger-tools/"><u>Top 7 Free Audio Editing Software: MP3 Splitter & Merger Tools</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/top-ebook-management-software-simplify-and-streamline-your-digital-library/"><u>Top eBook Management Software: Simplify & Streamline Your Digital Library</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/top-rated-drm-free-converter-for-kindle-kfv-in-2019-comprehensive-software-guide/"><u>Top Rated DRM-Free Converter for Kindle KFV in 2019: Comprehensive Software Guide</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/top-strategies-for-converting-aax-audio-files-to-mp3-format-on-macos-this-year/"><u>Top Strategies for Converting AAX Audio Files to MP3 Format on macOS This Year</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/ultimate-guide-transforming-your-pdf-documents-into-editable-word-files/"><u>Ultimate Guide: Transforming Your PDF Documents Into Editable Word Files</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-an-easy-way-to-amplify-your-instagram-presence-by-sharing-youtube-links-in-stories/"><u>[Updated] 2024 Approved An Easy Way to Amplify Your Instagram Presence by Sharing YouTube Links in Stories</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/ai-tegakiflexicaptureocr-abbyy/"><u>「日本語手作りの文字をAIが解読: TegakiとFlexiCapture、コゲントラボがOCRサービスで最先端へ」 - ABBYYブログ</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-the-soloists-path-to-trending-podcasts/"><u>2024 Approved The Soloist's Path to Trending Podcasts</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/how-to-rip-and-duplicate-your-own-copies-of-the-lego-movie-dvd/"><u>How to Rip & Duplicate Your Own Copies of 'The LEGO Movie' DVD</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-unveiling-hidden-potential-in-videos-top-5-strategies-for-stellar-tiktok-captions/"><u>In 2024, Unveiling Hidden Potential in Videos Top 5 Strategies for Stellar TikTok Captions</u></a></li>
+<li><a href="https://driver-download.techidaily.com/no-cost-no-hassle-get-your-windows-8-with-officially-supported-amd-graphics-drivers/"><u>No Cost, No Hassle! Get Your Windows 8 with Officially-Supported AMD Graphics Drivers</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/silence-the-snoops-opt-out-of-gpts-data-harvesting/"><u>Silence the Snoops: Opt-Out of GPT's Data Harvesting</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/step-by-step-guide-converting-your-audiobooks-into-mp3-format/"><u>Step-by-Step Guide: Converting Your Audiobooks Into MP3 Format</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-best-2d-animation-programs-of-the-year-comprehensive-list-with-paid-and-free-options/"><u>The Best 2D Animation Programs of the Year: Comprehensive List with Paid & Free Options</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-fixes-when-warframe-fail-to-load/"><u>Troubleshooting Guide - Fixes When Warframe Fail to Load</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/understanding-document-layouts-how-proper-formatting-enhances-comprehension/"><u>Understanding Document Layouts: How Proper Formatting Enhances Comprehension</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/understanding-the-basics-of-audio-formatting-an-in-depth-guide/"><u>Understanding the Basics of Audio Formatting: An In-Depth Guide</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/unleash-your-inner-author-a-step-by-step-guide-to-modifying-epubs-for-free-with-sigil/"><u>Unleash Your Inner Author: A Step-by-Step Guide to Modifying EPUBs for Free with Sigil</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/unlock-the-secrets-a-comprehensive-tutorial-for-reading-encrypted-epub-books-on-your-android-smartphonetablet/"><u>Unlock the Secrets: A Comprehensive Tutorial for Reading Encrypted ePub Books on Your Android Smartphone/Tablet</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/unlocking-your-digital-library-effective-techniques-to-lift-drm-from-ebooks/"><u>Unlocking Your Digital Library: Effective Techniques to Lift DRM From eBooks</u></a></li>
 </ul></div>
 

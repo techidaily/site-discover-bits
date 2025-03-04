@@ -1,7 +1,7 @@
 ---
 title: "Tutorial Pemeliharaan SSD: Proses Klon USB Dan Konfirmasi Modal Awal"
-date: 2025-01-21T04:51:44.873Z
-updated: 2025-01-23T21:05:32.318Z
+date: 2025-03-02T23:03:05.525Z
+updated: 2025-03-03T22:15:41.229Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/e2bd7441f115d457631670c7835514cc1e1ad27ead792a165abad33ef124056a.jpg
@@ -18,19 +18,11 @@ thumbnail: https://thmb.techidaily.com/e2bd7441f115d457631670c7835514cc1e1ad27ea
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Solved: Winload. efi Missing in Windows 11 | 2024
 
 Encounter the "winload.efi is missing or contains errors" error during computer boot? Discover potential reasons and find solutions to fix the winload.efi problem in Windows 11, 10, 8, 7 here.
 
 ![Maggie](https://www.ubackup.com/assets/images/author/maggie.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 By[Maggie](https://tools.techidaily.com/ubackup/products/)Updated on December 28, 2023
 
@@ -74,17 +66,9 @@ Causes of "winload.efi missing or contains error after clone" issues:
 **4\. Cloning Without Modifications**: Cloning a Windows installation without making necessary modifications can lead to boot problems, such as the winload.efi missing or containing error after clone.  
 **5\. Motherboard Replacement**: Replacing or modifying a computer's motherboard may cause problems with devices and drivers, potentially triggering the "winload.efi" problem if not addressed.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Fix winload.efi missing
 
 The "winload.efi missing" error happens when the OS can't find or access the winload.efi file. To fix this issue, 5 solutions are provided. You can directly navigate to the specific method you need or go through each solution sequentially.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  Option 1\. Use the Boot Repair Tool
 
@@ -110,10 +94,6 @@ Step 3\. Select the CD, DVD, USB drive or ISO file as bootable media. Then click
 
 [![Choose Bootable Media](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/adv/tools/create-bootable-media/choose-bootable-media.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 After creating bootable media (just a few minutes), boot your computer from this media, then AOMEI Backupper will run automatically, then go to **Tools** \-> **Windows Shell Command**. And you can restore system image or disk image created by AOMEI Backupper. 
 
 [![Windows Shell Command](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/adv/tools/windows-shell-command.png)
@@ -132,10 +112,6 @@ Step 3\. In the **Secure Boot** interface, change it from **Enabled** to **Disab
 
 [![Disable Secure Boot](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/articles/images/winload-efi-missing-after-clone-5740/secure-boot.jpg "Disable Secure Boot")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 4\. Save the changes and exit the UEFI settings.
 
 Step 5\. Restart the system and check if it boots normally. If the issue persists, proceed to the next method.
@@ -151,10 +127,6 @@ Step 2\. Boot the system from the USB and choose **Repair your Computer**.
 Step 3\. Select **Troubleshoot** and then **Command Prompt**.
 
 [![Command Prompt](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/windows-10-startup-repair/advanced-options.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 4\. Type or paste the following command and press **Enter**:
 
@@ -256,10 +228,6 @@ Was the provided information useful? Your vote is important to us!
 
 Maggie is a technical editor from AOMEI and troubleshoots technical problems against data protection. She has received professional and systematic technical training. With a focus on user experience, security, and problem-solving, she always puts herself in the readers' shoes and provides them with valuable technical insights.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Related Articles
 
 ##### [\[Solved\] Winload.efi Missing After Clone | 4 Ways + 1 Tip](https://tools.techidaily.com/ubackup/products/)
@@ -280,10 +248,6 @@ Was the provided information useful? Your vote is important to us!
 
 [Yes](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Free Get AOMEI Backupper Now
 
 Safeguard any data of your computer with backup, sync and clone.
@@ -293,10 +257,6 @@ Safeguard any data of your computer with backup, sync and clone.
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Clean & Secure
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -313,21 +273,22 @@ Safeguard any data of your computer with backup, sync and clone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-reviving-shadows-and-highlights-in-iphone-hdr-footage-with-premiere-pro/"><u>[New] Reviving Shadows and Highlights in iPhone HDR Footage with Premiere Pro</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-facebook-video-posting-dilemmnas-which-way/"><u>[Updated] 2024 Approved Facebook Video Posting Dilemmnas Which Way?</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-crafting-stories-essential-tips-for-youtube-video-editors/"><u>[Updated] In 2024, Crafting Stories Essential Tips for YouTube Video Editors</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/1728466120649-windows-11/"><u>遭遇Windows 11 備份失敗? 全面修復流程說明</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/a-review-of-the-goofy-movie-vhs/"><u>A Review of The Goofy Movie VHS</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/dos-estrategias-exitosas-para-evitar-que-tu-correo-de-outlook-se-llene-y-un-tipo-secreto-para-seguridad-de-tu-boletin/"><u>Dos Estrategias Exitosas Para Evitar Que Tu Correo De Outlook Se Llene Y Un Tipo Secreto Para Seguridad De Tu Boletín</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/error-the-content-youre-looking-for-isnt-available/"><u>Error: The Content You're Looking For Isn't Available</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/expert-tips-for-reviving-accidentally-erased-files-in-windows-1011-systems-using-asus-recovery-software/"><u>Expert Tips for Reviving Accidentally Erased Files in Windows 10/11 Systems Using ASUS Recovery Software</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/how-to-restore-all-lost-files-after-an-unintentional-full-system-wipe/"><u>How to Restore All Lost Files After an Unintentional Full System Wipe</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-unbrick-a-dead-xiaomi-redmi-12-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Xiaomi Redmi 12 5G | Dr.fone</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-expert-approach-to-master-multi-window-video-on-edge/"><u>In 2024, Expert Approach to Master Multi-Window Video on Edge</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/kinemaster-edition-creating-polished-transitions-in-filmmaking-for-2024/"><u>Kinemaster Edition Creating Polished Transitions in Filmmaking for 2024</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/navigating-through-windows-11s-quickboot-to-advanced-options/"><u>Navigating Through Windows 11’S QuickBoot to Advanced Options</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/simple-steps-to-restore-accidentally-erased-images-on-your-pc/"><u>Simple Steps to Restore Accidentally Erased Images on Your PC</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-6-convincing-benefits-of-owning-an-apple-watch-insights-from-a-wearable-tech-specialist-on-zdnet/"><u>Top 6 Convincing Benefits of Owning an Apple Watch: Insights From a Wearable Tech Specialist on ZDNet</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/troubleshoot-persistent-percentage-lock-in-windows-11-reset-operation-discover-6-solutions-to-unstick-your-system-update-from-1-to-99/"><u>Troubleshoot Persistent Percentage Lock in Windows 11 Reset Operation - Discover 6 Solutions to Unstick Your System Update From 1% to 99%</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-bebop-2s-aviary-artistry-reviewed/"><u>[New] In 2024, Bebop 2’S Aviary Artistry Reviewed</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-unlock-the-secrets-of-smooth-and-seamless-keying-in-videography/"><u>[New] In 2024, Unlock the Secrets of Smooth and Seamless Keying in Videography</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-transform-videos-to-tweets-best-converters-revealed-for-2024/"><u>[New] Transform Videos to Tweets Best Converters Revealed for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-unlocking-content-creation-free-tools-for-downloading-vids-online-for-2024/"><u>[New] Unlocking Content Creation Free Tools for Downloading Vids Online for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-precision-and-panache-advanced-tiktok-editing-skills/"><u>[Updated] In 2024, Precision and Panache Advanced TikTok Editing Skills</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-elites-free-guide-to-10-caption-download-tools/"><u>2024 Approved Elite's Free Guide to 10 Caption Download Tools</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/comment-sauver-ses-fichiers-detruits-par-inadvertance-sur-windows-une-methode-gratuite-etape-par-etape/"><u>Comment Sauver Ses Fichiers Détruits Par Inadvertance Sur Windows: Une Méthode Gratuite Étape Par Étape</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/deaktivierung-automatischer-loschfunktionen-in-microsoft-outlook-365-schritt-fur-schritt-anleitungen/"><u>Deaktivierung Automatischer Löschfunktionen in Microsoft Outlook 365 - Schritt-Für-Schritt Anleitungen</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/guida-facile-alla-clonazione-di-un-disco-c-su-windows-server-2019-impara-come-farlo-senza-problemi/"><u>Guida Facile Alla Clonazione Di Un Disco C Su Windows Server 2019: Impara Come Farlo Senza Problemi!</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/guide-exhaustif-restauration-des-donnees-dun-portable-sony-vaio-explique-etape-par-etape/"><u>Guide Exhaustif: Restauration Des Données D’un Portable Sony VAIO Expliqué Étape Par Étape</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-samsung-galaxy-s23-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Samsung Galaxy S23 | Dr.fone</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/quick-and-simple-hard-drive-duplication-upgrade-from-hdd-to-ssd-using-the-patriot-bootable-cloner/"><u>Quick & Simple Hard Drive Duplication: Upgrade From HDD to SSD Using the Patriot Bootable Cloner</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/retrieve-lost-memories-expert-tips-for-recovering-accidentally-erased-videos-from-your-ring-device/"><u>Retrieve Lost Memories: Expert Tips for Recovering Accidentally Erased Videos From Your Ring Device</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/revolutionizing-home-computing-the-brainiac-review-of-raspberry-pi-ai-modules/"><u>Revolutionizing Home Computing: The Brainiac Review of Raspberry Pi AI Modules</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723013934856-ring-of-elysium-speed-hacks-boost-your-frame-rate-and-gain-the-upper-hand/"><u>Ring of Elysium Speed Hacks: Boost Your Frame Rate and Gain the Upper Hand</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/step-by-step-guide-setting-up-your-first-linux-vm-on-a-windows-10-pc/"><u>Step-by-Step Guide: Setting Up Your First Linux VM on a Windows 10 PC</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/ultimate-tutorial-securely-syncing-your-new-iphone-15-with-your-computer-without-using-wi-fi-dont-miss/"><u>Ultimate Tutorial: Securely Syncing Your New iPhone 15 with Your Computer without Using Wi-Fi [Don't Miss!]</u></a></li>
 </ul></div>
 

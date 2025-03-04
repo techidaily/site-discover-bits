@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Offer: Free Alternative to QNAP NetBackup Software!"
-date: 2025-01-21T20:10:27.422Z
-updated: 2025-01-23T19:32:53.937Z
+date: 2025-02-27T17:19:40.859Z
+updated: 2025-03-04T00:17:40.970Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/e03e43d6c35d148960447c0d2ee89542320d7730a8e124f95538e772fc1bdf8a.jpg
@@ -81,17 +81,9 @@ Tout d'abord, cliquez sur **Ajouter un dossier** ou **Ajouter un fichier** sur l
 
 [![ajouter un fichier ou un dossier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ajouter-dossier-fichier.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 
 [![share/nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ouvrir.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le nom d'affichage, l'adresse IP, le nom d'utilisateur et le mot de passe pour connecter votre espace de stockage NAS Buffalo. Double-cliquez ensuite dessus dans le volet de gauche et sélectionnez ce que vous souhaitez sauvegarder dans la liste de droite.
 
@@ -100,10 +92,6 @@ Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le no
 **Étape 3.** Cliquez là où la flèche pointe et sélectionnez le disque externe préparé comme destination.
 
 [![destination](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/choix-chemin-destinations.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Étape 4.** Pour rendre la sauvegarde simple et efficace, définissez une planification de sauvegarde quotidienne, hebdomadaire ou mensuelle dans l'endroit inférieur et cliquez sur **Démarrer** pour sauvegarder le NAS Buffalo. Si vous cochez la case Réveiller l'ordinateur pour exécuter les tâches planifiées, le logiciel s'ouvrira et exécutera automatiquement cette tâche.
 
@@ -116,14 +104,6 @@ Et la sauvegarde incrémentielle nécessite une récupération plus complexe tan
 De plus, vous pouvez activer la notification par e-mail une fois la tâche terminée. Commenter, fractionner, compresser l'image de sauvegarde ou sélectionner un mode de sauvegarde, etc.
 
 [![options](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/options-sauvegarder/sauvegarde-options.png "AOMEI Email SMS Notification Settings")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Dernières réflexions sur l'utilitaire de sauvegarde Buffalo
 
@@ -140,10 +120,6 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 [Oui](https://tools.techidaily.com/ubackup/products/)[Non](https://tools.techidaily.com/ubackup/products/)
 
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [Aurore](https://tools.techidaily.com/ubackup/products/) · Éditeur
 
@@ -179,10 +155,6 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -198,19 +170,19 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-bio-essentials-the-ultimate-guide-to-crafting-impactful-social-media-profiles/"><u>[New] In 2024, Bio Essentials The Ultimate Guide to Crafting Impactful Social Media Profiles</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-soundsreview-insight/"><u>[New] SoundsReview Insight</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-record-your-mac-view-in-minutes-for-2024/"><u>[Updated] Record Your Mac View in Minutes for 2024</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/a-step-by-step-guide-mastering-the-art-of-opening-editing-and-saving-office-files-with-yl-computing-tools/"><u>A Step-by-Step Guide: Mastering the Art of Opening, Editing & Saving Office Files with YL Computing Tools</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/clear-your-space-removing-clutter-and-temp-files-with-ease-expert-tips-from-yl-computing/"><u>Clear Your Space: Removing Clutter & Temp Files with Ease - Expert Tips From YL Computing</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/do-memory-errors-trigger-computer-freezes-detailed-analysis-by-yl-software-professionals/"><u>Do Memory Errors Trigger Computer Freezes? Detailed Analysis by YL Software Professionals</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/elevate-feminine-comfort-sustainable-menstrual-heat-pad-powered-by-yl-software-and-technology-solutions/"><u>Elevate Feminine Comfort: Sustainable Menstrual Heat Pad Powered by YL Software & Technology Solutions</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Realme GT Neo 5 SE | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-contrasting-streamers-realms-twitch-vs-youtube/"><u>In 2024, Contrasting Streamers' Realms Twitch Vs YouTube</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-seamless-integration-with-picture-in-picture-mode/"><u>In 2024, Seamless Integration with Picture-In-Picture Mode</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Samsung Galaxy A05? | Dr.fone</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/troubleshooting-and-updating-your-network-adapters-driver-in-windows-10-expert-tips/"><u>Troubleshooting and Updating Your Network Adapters Driver in Windows 10 - Expert Tips</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/unraveling-the-rise-of-empress-dowager-cixi-a-strategic-analysis-expert-insights-from-yl-computing/"><u>Unraveling the Rise of Empress Dowager Cixi: A Strategic Analysis – Expert Insights From YL Computing</u></a></li>
-<li><a href="https://blog-min.techidaily.com/windowsmac-ma4mp4amp3/"><u>Windows/Macでマルチメディアプレーヤーへの変換: MA4・MP4AファイルをMP3に</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/xperience-a-bundle-of-9-whole-film-christmas-treasures-for-free/"><u>[New] Experience a Bundle of 9 Whole-Film Christmas Treasures for Free</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/1726030007560-mp3/"><u>「オーディオファイル形式と拡張子の変更：MP3への音楽データ転送ガイド」</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/aacitunes/"><u>AAC形式でiTunesへ曲転送するための対処法</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/comparing-av1-and-hevc-an-essential-quick-guide-on-modern-video-codecs/"><u>Comparing AV1 and HEVC: An Essential Quick Guide on Modern Video Codecs</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-clevetura-clvx-1-wireless-keyboard-analysis-tactile-feedback-evaluation/"><u>Comprehensive Clevetura CLVX 1 Wireless Keyboard Analysis - Tactile Feedback Evaluation</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/cost-effective-powerhouse-gaming-computers-of-the-year-expert-picks-for-2n4-guided-by-zdnet/"><u>Cost-Effective Powerhouse Gaming Computers of the Year: Expert Picks for 2N4 | Guided by ZDNET</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/expert-advice-on-rl-gameplay-screen-sharing-for-2024/"><u>Expert Advice on RL Gameplay Screen Sharing for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-how-to-master-iphone-video-screening/"><u>In 2024, How to Master iPhone Video Screening</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/lg-bp350-evaluation-size-resolution-and-connectivity/"><u>LG BP350 Evaluation - Size, Resolution, and Connectivity</u></a></li>
+<li><a href="https://win-latest.techidaily.com/maximizing-system-efficiency-a-comprehensive-guide-by-yl-computing/"><u>Maximizing System Efficiency: A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/1726027837635-pc/"><u>PCやスマートフォンで再生中のビデオを記録する手順</u></a></li>
+<li><a href="https://win-dash.techidaily.com/updated-hp-officejet-pro-n8610-drivers-seamless-compatibility-with-modern-and-legacy-windows-systems/"><u>Updated HP Officejet Pro N8610 Drivers: Seamless Compatibility with Modern and Legacy Windows Systems</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/windows-11gif/"><u>Windows 11用の簡単なGIF制作ガイド</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/xbox-game-barwindows-10/"><u>Xbox Game BarのWindows 10画面録画ができない時の対策：最新ガイド</u></a></li>
 </ul></div>
 

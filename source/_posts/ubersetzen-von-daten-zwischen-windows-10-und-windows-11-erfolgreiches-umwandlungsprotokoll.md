@@ -1,7 +1,7 @@
 ---
 title: Übersetzen Von Daten Zwischen Windows 10 Und Windows 11 - Erfolgreiches Umwandlungsprotokoll
-date: 2025-01-22T03:22:45.518Z
-updated: 2025-01-23T22:06:11.320Z
+date: 2025-03-02T21:10:11.538Z
+updated: 2025-03-03T18:54:22.734Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/5e5b9ce0dc07e3f4c01f086c082ef2c0bbdb4ea2b6b782415a93738cfbe92996.jpg
@@ -18,19 +18,11 @@ thumbnail: https://thmb.techidaily.com/5e5b9ce0dc07e3f4c01f086c082ef2c0bbdb4ea2b
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Logiciel de sauvegarde NAS Buffalo le plus efficace ! \[Guide inclus\]
 
 Vous obtiendrez le logiciel de sauvegarde NAS Buffalo le plus simple pour Windows 11/10/8/7/XP/Vista. Apprenez à l'utiliser pour sauvegarder automatiquement des fichiers en quelques étapes simples.
 
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Par[Aurore](https://tools.techidaily.com/ubackup/products/)Publié le 26/06/2024
 
@@ -50,10 +42,6 @@ NAS Buffalo est la solution idéale pour la protection des données et peut faci
 À ce stade, vous avez besoin d'un logiciel de sauvegarde NAS Buffalo, de préférence le plus simple. Les Buffalo LinkStation et Buffalo TeraStation sont équipés d'un lecteur NAS pour vous aider à sauvegarder des photos, des vidéos, de la musique, etc. ou à les partager, mais la plupart des appareils ne prennent en charge que le système Linux et certains sont disponibles sur Windows Server 2016\. Que faire si vous utilisez Windows 7/8/10/11 ?
 
 [![buffalo](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/others/image/nas-buffalo.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Ne vous inquiétez pas trop. Vous pouvez envisager d'utiliser un logiciel de sauvegarde NAS tiers pour vous aider. [AOMEI Backupper Standard](https://tools.techidaily.com/ubackup/products/) est un excellent choix en raison de sa grande compatibilité (prise en charge de Windows 7/8/10/11/XP/Vista), de sa gratuité, de sa facilité d'utilisation, de sa flexibilité et de ses fonctionnalités riches.
 
@@ -97,17 +85,9 @@ Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 
 [![share/nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ouvrir.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le nom d'affichage, l'adresse IP, le nom d'utilisateur et le mot de passe pour connecter votre espace de stockage NAS Buffalo. Double-cliquez ensuite dessus dans le volet de gauche et sélectionnez ce que vous souhaitez sauvegarder dans la liste de droite.
 
 [![ajouter périphérique share ou nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/emplacement-reseau.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Étape 3.** Cliquez là où la flèche pointe et sélectionnez le disque externe préparé comme destination.
 
@@ -117,10 +97,6 @@ Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le no
 
 [![mode planifier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/mode-planifier.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Par défaut, ce logiciel créera une sauvegarde complète et 6 sauvegardes incrémentielles si vous définissez une tâche de sauvegarde planifiée. Cela peut entraîner un problème d'espace disque plein à long terme, il est donc recommandé d'activer le [Plan de sauvegarde](https://tools.techidaily.com/ubackup/products/) et de supprimer automatiquement les fichiers de sauvegarde. Pour profiter de ces fonctions, passez à l'édition [Professional](https://tools.techidaily.com/ubackup/products/).
 
 Et la sauvegarde incrémentielle nécessite une récupération plus complexe tandis que la sauvegarde différentielle est beaucoup plus facile. Pour connaître les différences entre elles, consultez « [Sauvegarde incrémentielle ou différentielle](https://tools.techidaily.com/ubackup/products/) ».
@@ -128,10 +104,6 @@ Et la sauvegarde incrémentielle nécessite une récupération plus complexe tan
 De plus, vous pouvez activer la notification par e-mail une fois la tâche terminée. Commenter, fractionner, compresser l'image de sauvegarde ou sélectionner un mode de sauvegarde, etc.
 
 [![options](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/options-sauvegarder/sauvegarde-options.png "AOMEI Email SMS Notification Settings")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Dernières réflexions sur l'utilitaire de sauvegarde Buffalo
 
@@ -198,16 +170,16 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-expert-guide-to-vlc-for-networked-webcasting/"><u>[New] In 2024, Expert Guide to VLC for Networked Webcasting</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/1728475490366-windows-11/"><u>如何在Windows 11上輕易地使用壓克力保護文件設定，包括三種有效的複制技術</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/discovering-your-latest-files-a-step-by-step-guide-to-track-down-recent-downloads-on-windows-1187/"><u>Discovering Your Latest Files: A Step-by-Step Guide to Track Down Recent Downloads on Windows 11/8/7</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/effective-external-hard-drive-backup-strategies-wie-sie-ihre-daten-schutzen/"><u>Effective External Hard Drive Backup Strategies - Wie Sie Ihre Daten Schützen</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/facebook-video-wonders-your-must-see-list/"><u>Facebook Video Wonders - Your Must-See List</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-infinix-hot-40-pro-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Infinix Hot 40 Pro Phone FRP Lock</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/1728495674343-page-unavailable-http-error-404/"><u>Page Unavailable: HTTP Error 404</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/resolve-your-iphones-invisibility-issue-on-windows-pc-a-guide-with-6-effective-solutions/"><u>Resolve Your iPhone's Invisibility Issue on Windows PC: A Guide with 6 Effective Solutions</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/the-ultimate-compilation-of-techniques-to-source-background-images/"><u>The Ultimate Compilation of Techniques to Source Background Images</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unveiling-the-secrets-of-the-telegram-application/"><u>Unveiling the Secrets of the Telegram Application</u></a></li>
-<li><a href="https://howto.techidaily.com/why-your-itel-p55plus-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Itel P55+ Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-unleash-your-full-potential-in-tiktok-video-making-with-templates-for-2024/"><u>[New] Unleash Your Full Potential in TikTok Video Making with Templates for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-ranking-8-proven-online-promotion-techniques-for-videos/"><u>[Updated] 2024 Approved Ranking 8 Proven Online Promotion Techniques for Videos</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-revolutionizing-screen-experience-lgs-2023-bp550/"><u>2024 Approved Revolutionizing Screen Experience - LG's 2023 BP550</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-huawei-p60-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Huawei P60</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/diagnosing-online-issues-why-your-internet-might-be-down-and-solutions-by-yl-software/"><u>Diagnosing Online Issues: Why Your Internet Might Be Down and Solutions by YL Software</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/elevate-feminine-comfort-sustainable-menstrual-heat-pad-powered-by-yl-software-and-technology-solutions/"><u>Elevate Feminine Comfort: Sustainable Menstrual Heat Pad Powered by YL Software & Technology Solutions</u></a></li>
+<li><a href="https://techidaily.com/exploring-next-gen-virtual-reality-the-quest-for-true-multi-sense-immersion-with-taste-touch-and-smell-features/"><u>Exploring Next-Gen Virtual Reality: The Quest for True Multi-Sense Immersion with Taste, Touch, and Smell Features</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-lag-issues-and-optimizing-connection-speed-in-bless-unleashed-for-gaming-rig/"><u>Troubleshooting Lag Issues & Optimizing Connection Speed in Bless Unleashed for Gaming Rig</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/unraveling-the-rise-of-empress-dowager-cixi-a-strategic-analysis-expert-insights-from-yl-computing/"><u>Unraveling the Rise of Empress Dowager Cixi: A Strategic Analysis – Expert Insights From YL Computing</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/yl-computings-step-by-step-tutorial-on-relocating-documents-and-data-to-new-storage-areas/"><u>YL Computing's Step-by-Step Tutorial on Relocating Documents & Data to New Storage Areas</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/yl-software-solutions-master-the-art-of-relocating-files-to-new-directories/"><u>YL Software Solutions: Master the Art of Relocating Files to New Directories</u></a></li>
 </ul></div>
 

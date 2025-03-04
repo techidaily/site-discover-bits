@@ -1,7 +1,7 @@
 ---
 title: Checkpoint Inhibitors Are Drugs that Block Proteins Like CTLA-4 and PD-1/PD-L1, Which Act as Brakes on the Immune System.
-date: 2025-01-17T01:48:29.051Z
-updated: 2025-01-24T00:24:43.104Z
+date: 2025-02-27T21:36:48.291Z
+updated: 2025-03-04T03:09:27.075Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/f75585e4daf78953dd0ce1cfd0b26209fab1e9c588003fe7de564148a8e3e23c.jpg
@@ -28,10 +28,6 @@ Par[Aurore](https://tools.techidaily.com/ubackup/products/)Publié le 26/06/2024
 
 Partager sur : ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Table des matières** 
 
 1. [Logiciel de sauvegarde NAS Buffalo pour système Windows](https://tools.techidaily.com/ubackup/products/)
@@ -49,10 +45,6 @@ NAS Buffalo est la solution idéale pour la protection des données et peut faci
 
 Ne vous inquiétez pas trop. Vous pouvez envisager d'utiliser un logiciel de sauvegarde NAS tiers pour vous aider. [AOMEI Backupper Standard](https://tools.techidaily.com/ubackup/products/) est un excellent choix en raison de sa grande compatibilité (prise en charge de Windows 7/8/10/11/XP/Vista), de sa gratuité, de sa facilité d'utilisation, de sa flexibilité et de ses fonctionnalités riches.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Avantages du logiciel de sauvegarde NAS Buffalo - AOMEI Backupper Standard
 
 AOMEI Backupper Standard est un logiciel de sauvegarde tout-en-un pour Windows 11/10/8/7/XP/Vista qui prend en charge la sauvegarde de fichiers, de systèmes, de disques et de partitions en seulement quelques étapes simples. Vous pouvez profiter des avantages suivants :
@@ -68,10 +60,6 @@ AOMEI Backupper Standard est un logiciel de sauvegarde tout-en-un pour Windows 1
 Toutes les opérations s'effectuent dans une interface intuitive, ce qui permet à la majorité des utilisateurs de comprendre rapidement le logiciel et de l'utiliser facilement. Veuillez le télécharger et l'installer sur votre ordinateur.
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-logo-ab-32.svg)AOMEI Backupper
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Meilleur logiciel de sauvegarde Windows gratuit pour usage personnel.
 
@@ -93,10 +81,6 @@ Tout d'abord, cliquez sur **Ajouter un dossier** ou **Ajouter un fichier** sur l
 
 [![ajouter un fichier ou un dossier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ajouter-dossier-fichier.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 
 [![share/nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ouvrir.png)
@@ -109,10 +93,6 @@ Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le no
 
 [![destination](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/choix-chemin-destinations.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Étape 4.** Pour rendre la sauvegarde simple et efficace, définissez une planification de sauvegarde quotidienne, hebdomadaire ou mensuelle dans l'endroit inférieur et cliquez sur **Démarrer** pour sauvegarder le NAS Buffalo. Si vous cochez la case Réveiller l'ordinateur pour exécuter les tâches planifiées, le logiciel s'ouvrira et exécutera automatiquement cette tâche.
 
 [![mode planifier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/mode-planifier.png)
@@ -124,10 +104,6 @@ Et la sauvegarde incrémentielle nécessite une récupération plus complexe tan
 De plus, vous pouvez activer la notification par e-mail une fois la tâche terminée. Commenter, fractionner, compresser l'image de sauvegarde ou sélectionner un mode de sauvegarde, etc.
 
 [![options](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/options-sauvegarder/sauvegarde-options.png "AOMEI Email SMS Notification Settings")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Dernières réflexions sur l'utilitaire de sauvegarde Buffalo
 
@@ -148,10 +124,6 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 [Aurore](https://tools.techidaily.com/ubackup/products/) · Éditeur
 
 Éditrice senior d'AOMEI Technology qui rédige principalement des articles sur la sauvegarde, la synchronisation, le clonage et la restauration de l'ordinateur, tout dans le but de proposer des solutions simples aux utilisateurs pour protéger les données de leur ordinateur. Grâce à ses expertises informatiques, elle propose souvent des astuces très utiles.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Autres articles connexes
 
@@ -198,21 +170,22 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-professional-workshop-embedding-countdown-features-in-obs-for-2024/"><u>[New] Professional Workshop Embedding Countdown Features in OBS for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-building-a-powerhouse-business-channel-in-under-5-minutes/"><u>[Updated] In 2024, Building a Powerhouse Business Channel in Under 5 Minutes</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-perfectly-sized-videos-for-maximum-engagement-on-instagram/"><u>[Updated] In 2024, Perfectly Sized Videos for Maximum Engagement on Instagram</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-top-ranked-apps-for-video-conferencing-and-collaboration/"><u>[Updated] In 2024, Top-Ranked Apps for Video Conferencing and Collaboration</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/nvme-ssd-nvmewindows/"><u>您好，请教：将NVMe SSD无缝副本到新 NVMe存储在Windows上的两种技巧</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/1728475429437-iphone/"><u>重置iPhone之後怎樣撤銷被清空的資料? -一步一步教學</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/budget-resolutions-while-not-binding-upon-the-senate-these-resolutions-establish-a-blueprint-for-federal-spending-and-revenues-that-both-chambers-can-adhere19/"><u>Budget Resolutions - While Not Binding upon the Senate, These Resolutions Establish a Blueprint for Federal Spending and Revenues that Both Chambers Can Adhere to During Appropriation Processes</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/comment-localiser-et-recuperer-un-fichier-pst-outlook-perdu-strategies-dintervention-and-de-secours/"><u>Comment Localiser Et Récupérer Un Fichier .PST Outlook Perdu : Stratégies D'Intervention & De Secours</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/comprehensive-guide-to-external-drive-backups-mastering-mbr-and-gpt-techniques/"><u>Comprehensive Guide to External Drive Backups: Mastering MBR and GPT Techniques</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/mastering-image-curves-in-adobe-photoshop-for-2024/"><u>Mastering Image Curves in Adobe Photoshop for 2024</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/page-unavailable-understanding-the-http-error-404/"><u>Page Unavailable: Understanding the HTTP Error 404</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/resolving-normalizdll-missing-file-issues-a-step-by-step-guide/"><u>Resolving 'Normaliz.dll' Missing File Issues: A Step-by-Step Guide</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/streamlined-techniques-to-log-and-preserve-gotomeetings/"><u>Streamlined Techniques to Log and Preserve GoToMeetings</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-installation-failure-in-discord-for-win-1011/"><u>Troubleshooting Installation Failure in Discord for Win 10/11</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/verbessern-sie-ihre-dateisichertaste-mit-aomei-backupper-kommentaren-eine-detaillierte-anleitung/"><u>Verbessern Sie Ihre Dateisichertaste Mit AOMEI Backupper Kommentaren - Eine Detaillierte Anleitung</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/windows-1011dvdiso/"><u>Windows 10および11にてDVDからISO画像を作り出す手順</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-enhancing-youtube-video-screens-without-barriers-for-2024/"><u>[New] Enhancing YouTube Video Screens Without Barriers for 2024</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/iphoneandroidwindows6/"><u>找回iPhone/Android/Windows裡遺失的照片：6種最佳救助手段</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/comment-resoudre-le-probleme-de-synchronisation-du-nuage-avec-la-synology-une-solution-efficace/"><u>Comment Résoudre Le Problème De Synchronisation Du Nuage Avec La Synology: Une Solution Efficace</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/-unforgettable-experiences-for-more-subscribers-with-these-6-tips/"><u>Craft Unforgettable Experiences for More Subscribers with These 6 Tips</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/excelwindows-10/"><u>ExcelファイルがWindows 10で消えた！: もう一度見つける方法</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-nokia-c02-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Nokia C02 | Dr.fone</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/fixing-windows-update-problem-code-0x80070643-a-step-by-step-guide-with-5-key-methods/"><u>Fixing Windows Update Problem Code 0X80070643: A Step-by-Step Guide with 5 Key Methods</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-honor-x8b-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Honor X8b Phone without Google Account?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722904023352-iphone-users-guide-to-preventing-unwanted-calls-from-private-numbers/"><u>IPhone Users Guide to Preventing Unwanted Calls From Private Numbers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/lenovo-introduces-innovative-2-in-1-device-a-hybrid-of-windows-laptop-and-android-tablet/"><u>Lenovo Introduces Innovative 2-in-1 Device: A Hybrid of Windows Laptop and Android Tablet</u></a></li>
+<li><a href="https://techtrends.techidaily.com/overcoming-msxml4dll-error-your-ultimate-fix-guide/"><u>Overcoming Msxml4.dll Error: Your Ultimate Fix Guide</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/six-methods-to-repair-and-restore-unformatted-raw-sd-card-a-step-by-step-guide/"><u>Six Methods to Repair and Restore Unformatted RAW SD Card: A Step-by-Step Guide</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-oneplus-open-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from OnePlus Open to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/transform-your-edits-how-to-negate-distracting-surroundings-using-affinity-photo/"><u>Transform Your Edits How to Negate Distracting Surroundings Using Affinity Photo</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/unveiling-the-contrast-a-comprehensive-guide-on-backups-vs-system-images/"><u>Unveiling the Contrast: A Comprehensive Guide on Backups Vs. System Images</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/wie-schnell-kann-ich-die-unendliche-bitlocker-datenverschlusselung-beenden-lassen-schnelle-losungen/"><u>Wie Schnell Kann Ich Die Unendliche BitLocker-Datenverschlüsselung Beenden Lassen? (Schnelle Lösungen)</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/pcnvme-ssd4/"><u>デルPCにおけるNVMe SSD認証失敗対策：上位4技術</u></a></li>
 </ul></div>
 

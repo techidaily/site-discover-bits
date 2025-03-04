@@ -1,7 +1,7 @@
 ---
 title: "PCDJ Essentials: Mastering Data Preservation with Easy Guide on Saving & Retrieving DEX Amoeba Databases"
-date: 2025-02-07T19:20:25.474Z
-updated: 2025-02-12T18:38:12.655Z
+date: 2025-02-25T01:02:09.078Z
+updated: 2025-03-04T04:15:51.921Z
 tags:
   - product
 categories:
@@ -20,10 +20,6 @@ The new playlists creation features, [side-list](https://tools.techidaily.com/pc
 The database [XML](http://en.wikipedia.org/wiki/XML) file for DEX 3 contains all your user lists (_and database list_), history, cue point/waveform data as well as the search cache — so needless to say it’s important. In the database folder for DEX 3 you also have you “_favorites.xml”_ file and column settings information, so you want to back that up too. The best bet is to backup the entire DATABASE Folder in your Documents (_Windows_) or Docs (_MAC_) folder to another location on your machine, and restore from there if necessary.
 
 ##### Watch how to make a backup of your DEX 3 database and restore it if required
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### _Related_
 
@@ -44,16 +40,17 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2015/02/backupdb-coverimage1.jpg?f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-speed-enhancement-tips-for-periscope-livestimation/"><u>[Updated] 2024 Approved Speed Enhancement Tips for Periscope Livestimation</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-visual-vibes-top-story-filter-rankings/"><u>[Updated] In 2024, Visual Vibes Top Story Filter Rankings</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/1-easy-guide-to-converting-videos-for-android-playback-step-by-step-formatting-instructions/"><u>1. Easy Guide to Converting Videos for Android Playback: Step-by-Step Formatting Instructions</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-nokia-g42-5g-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Nokia G42 5G | Dr.fone</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/1726027065719-vbrcbr/"><u>動画・オーディオコンテンツをVBRから一定ビットレート(CBR)に効率的変換の技術</u></a></li>
-<li><a href="https://apple-account.techidaily.com/apple-id-locked-or-disabled-from-iphone-13-pro-7-mehtods-you-cant-miss-by-drfone-ios/"><u>Apple ID Locked or Disabled From iPhone 13 Pro? 7 Mehtods You Cant-Miss</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722880602714-eliminate-missing-msvcrtdll-effective-solutions-for-windows-users/"><u>Eliminate 'Missing msvcrt.dll': Effective Solutions for Windows Users</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-honor-magic-v2-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Honor Magic V2 | Dr.fone</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/1726026593598-pc/"><u>PCでのアニメ動画のスクリーンレコーディング手順</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/wonderfox-ultra-fast-hd-dvd-and-video-format-conversion/"><u>WonderFox Ultra-Fast HD DVD & Video Format Conversion</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/worldwide-dvd-viewing-freedom-discover-the-top-3-strategies-for-bypassing-regional-lockouts-effortlessly/"><u>Worldwide DVD Viewing Freedom: Discover the Top 3 Strategies for Bypassing Regional Lockouts Effortlessly</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-excellence-collection-highest-quality-webcam-supports/"><u>[New] Excellence Collection Highest Quality Webcam Supports</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-unveiling-effective-routes-to-share-srt-content-on-pinterest-and-reddit-for-2024/"><u>[New] Unveiling Effective Routes to Share SRT Content on Pinterest & Reddit for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-the-veil-vs-the-beam-shadowheroes-vs-luminaryfighters/"><u>[Updated] 2024 Approved The Veil vs the Beam Shadowheroes Vs Luminaryfighters</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-upgrade-video-experience-activate-av1-on-youtube/"><u>[Updated] Upgrade Video Experience Activate AV1 on YouTube</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/easy-guide-to-converting-your-dvds-into-mp4-format-for-seamless-multi-device-compatibility/"><u>Easy Guide to Converting Your DVDs Into MP4 Format for Seamless Multi-Device Compatibility</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/easy-guide-setting-up-the-arctic-zephyr-2-theme-in-your-kodi-interface/"><u>Easy Guide: Setting Up the Arctic Zephyr 2 Theme in Your Kodi Interface</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/easy-methods-for-changing-mkv-file-types-to-mov-compatible-with-pc-mac-and-internet-solutions/"><u>Easy Methods for Changing MKV File Types to MOV - Compatible with PC, MAC, and Internet Solutions</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/easy-steps-successfully-opening-an-iso-image-file/"><u>Easy Steps: Successfully Opening an ISO Image File</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-electronics-with-toms-hardware-tips-and-reviews/"><u>Exploring Electronics with Tom's Hardware: Tips and Reviews</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unraveling-the-enthralling-elements-of-filmora-editing/"><u>In 2024, Unraveling the Enthralling Elements of Filmora Editing</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/ricohs-compact-theta-sc2-revolutionizes-travel-gear/"><u>Ricoh's Compact Theta SC2 Revolutionizes Travel Gear</u></a></li>
+<li><a href="https://some-skills.techidaily.com/syncing-scores-and-screenplays-top-tunes-for-video-unboxing-for-2024/"><u>Syncing Scores and Screenplays Top Tunes for Video Unboxing for 2024</u></a></li>
 </ul></div>
 

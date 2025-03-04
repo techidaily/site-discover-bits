@@ -1,7 +1,7 @@
 ---
 title: Windows Update：最新のWin10からWin11へ、効果的なデータ転送方法 - 第三者の解決策
-date: 2025-01-19T21:32:52.001Z
-updated: 2025-01-23T16:44:46.879Z
+date: 2025-02-26T19:21:05.951Z
+updated: 2025-03-03T21:02:56.570Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/fa290563760e589f24a85fc95189dcd8b9293ad6203d8af2e7f7aed06726e6d2.jpg
@@ -28,10 +28,6 @@ Von[Holiday](https://tools.techidaily.com/ubackup/products/)/ Aktualisiert am 14
 
 Teilen Sie dies: [![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg)](https://www.ubackup.com/de/data-recovery-disk/javascript:void%280%29;) [![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg)](https://www.ubackup.com/de/data-recovery-disk/javascript:void%280%29;) [![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg)](https://www.ubackup.com/de/data-recovery-disk/javascript:void%280%29;) [![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg)](https://www.ubackup.com/de/data-recovery-disk/javascript:void%280%29;) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Inhaltsverzeichnis** 
 
 1. [Ist es sicher, den Papierkorb zu löschen?](https://tools.techidaily.com/ubackup/products/)
@@ -53,10 +49,6 @@ Vor der dauerhaften Löschung kann der Papierkorb gelöschte Dateien und Ordner 
 Nicht zu vergessen sind die kürzlich gelöschten Dateien im Papierkorb. Sie werden weiterhin den begrenzten Speicherplatz belegen.
 
 [![Papierkorb leeren](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows-recovery/empty-recycle-bin.png "Papierkorb leeren")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Um Speicherplatz freizugeben, leeren viele Benutzer ihren Papierkorb. Aber ist es sicher, den Papierkorb zu löschen? Um spätere Bedauern zu vermeiden, öffnen Sie diesen temporären Speicherplatz, um zu prüfen, ob sich darin Dateien befinden, die Sie wiederherstellen möchten.
 
@@ -118,10 +110,6 @@ Sicherer Download
 
 [![Laufwerk scannen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/data-recovery-disk/windows-recovery/scanning-drive.png "Laufwerk scannen")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Schritt 3**. Gehen Sie zum Papierkorb, um die gewünschten Dateien zu lokalisieren. Klicken Sie dann auf „**x Dateien wiederherstellen**“, um die ausgewählten Dateien wiederherzustellen. Speichern Sie diese wiederhergestellten Dateien bitte an einem neuen Ort.
 
 [![x Dateien wiederherstellen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/data-recovery-disk/windows-recovery/select-deleted-excel-files-click-recover.png "x Dateien wiederherstellen")
@@ -153,23 +141,11 @@ Sicherer Download
 
 [![aufgabename eingeben](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/de/std/backup/file-backup/task-name.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Schritt** **3**. Klicken Sie auf „**\+ Datei**“ oder „**\+ Ordner**“, damit Sie die Dateien/Ordner auswählen können, die Sie sichern möchten. (Sie können mehrere Ordner und Dateien als Quelle hinzufügen; Sie können auch Ordner und Dateien direkt als Quelle auf den Backupper ziehen).
 
 [![Ordner hinzufügen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/de/std/backup/file-backup/add-folder.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Schritt 4**. Nach Abschluss des Sicherungsvorgangs klicken Sie auf „Fertig“, um das Fenster zu schließen.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Zusammenfassung
 
@@ -180,10 +156,6 @@ Wenn Ihr Papierkorb leer angezeigt wird, dies aber nicht der Fall ist, können S
 Wenn Sie den Papierkorb vom Desktop aus leeren möchten, können Sie die im zweiten Teil empfohlene erweiterte Eingabeaufforderung verwenden.
 
 Für [dauerhaft gelöschte Dateien können Sie Ihre Dateien](https://tools.techidaily.com/ubackup/products/) aus den von AOMEI Backupper erstellten Sicherungen wiederherstellen oder Datenrettungstools verwenden, um sie wiederherzustellen.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Häufig gestellte Fragen
 
@@ -235,10 +207,6 @@ Waren die angebotenen Informationen nützlich? Ihre Stimme ist wichtig für uns!
 
 [Ja](https://tools.techidaily.com/ubackup/products/)[Nein](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## MyRecover Jetzt Kostenlos Erhalten
 
 Wiederherstellen von gelöschten und verlorenen Daten aus allen Katastrophen in Windows.
@@ -246,10 +214,6 @@ Wiederherstellen von gelöschten und verlorenen Daten aus allen Katastrophen in 
 [**Freeware Herunterladen**  Win PCs & Server](https://tools.techidaily.com/ubackup/products/) 
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Sauber & Sicher
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://www.ubackup.com/resource/images/ub-mr-theme/ub-article-mr-img-dibu.png)
 
@@ -268,22 +232,24 @@ Wiederherstellen von gelöschten und verlorenen Daten aus allen Katastrophen in 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-7-3d-modeling-software-for-animation/"><u>[New] 7 3D Modeling Software for Animation</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/n-2024-in-depth-analysis-top-10-video-cards-built-for-youtube-watching/"><u>[New] In 2024, In-Depth Analysis Top 10 Video Cards Built for YouTube Watching</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-inside-look-how-does-vr-headgear-work-in-2024/"><u>[Updated] Inside Look How Does VR Headgear Work, In 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-ultimate-guide-top-10-photography-frame-tools-for-2024/"><u>[Updated] Ultimate Guide Top 10 Photography Frame Tools for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-honor-x50i-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Honor X50i without App | Dr.fone</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/1728486690804-4/"><u>清算ウィンドウズアップデートコレクション:手順マニュアル4つ分</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/windows-10-wd-my-cloud/"><u>易用自複錄手法：從 Windows 10 快速轉移至 WD My Cloud - 前所未見！</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/checkpoint-inhibitors-are-drugs-that-block-proteins-like-ctla-4-and-pd-1pd-l1-which-act-as-brakes-on-the-immune-system/"><u>Checkpoint Inhibitors Are Drugs that Block Proteins Like CTLA-4 and PD-1/PD-L1, Which Act as Brakes on the Immune System.</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/comment-installer-et-utiliser-windows-11-en-mode-portatif-avec-une-cle-usb/"><u>Comment Installer Et Utiliser Windows 11 en Mode Portatif Avec Une Clé USB</u></a></li>
-<li><a href="https://discover-great.techidaily.com/effortless-methods-for-streaming-dvd-movies-onto-an-ipad/"><u>Effortless Methods for Streaming DVD Movies Onto an iPad</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/effortless-methods-safeguard-your-email-with-dropbox-top-2-strategies/"><u>Effortless Methods: Safeguard Your Email with Dropbox - Top 2 Strategies</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/expanding-the-thresholds-of-idp-through-vital-information-harvesting-object-spotting-and-lexical-analysis/"><u>Expanding the Thresholds of IDP Through Vital Information Harvesting, Object Spotting, and Lexical Analysis</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Apple iPhone 7 | Dr.fone</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Apple iPhone 6s Plus | Dr.fone</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/restablecer-iconos-de-escritorio-en-windows-guia-completa-para-usuarios-de-windows-10-y-11/"><u>Restablecer Iconos De Escritorio en Windows: Guía Completa Para Usuarios De Windows 10 Y 11</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/soluzioni-efficaci-per-i-problemi-di-accesso-al-server-in-outlook-guida-completa/"><u>Soluzioni Efficaci per I Problemi Di Accesso Al Server in Outlook: Guida Completa</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/tutorial-passo-passo-per-clonare-con-sicurezza-il-tuo-ssd-m-per-una-versione-di-capacita-aumentata/"><u>Tutorial Passo-Passo per Clonare Con Sicurezza Il Tuo SSD M. # Per Una Versione Di Capacità Aumentata</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-understanding-expenses-in-music-video-creation/"><u>[New] 2024 Approved Understanding Expenses in Music Video Creation</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-document-the-drive-on-your-galaxy-screen-for-2024/"><u>[New] Document the Drive on Your Galaxy Screen for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Samsung Galaxy A15 4G | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210764923-9780645491432-a-journey-through-myth-and-legend/"><u>A Journey through Myth and Legend | Free Book</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/bilateral-business-council-initiated-by-us-and-beijing-sparks-criticism-from-house-foreign-affairs-chairman-for-its-naive-approach-to-economic-diplomacy/"><u>Bilateral Business Council Initiated by US and Beijing Sparks Criticism From House Foreign Affairs Chairman for Its 'Naïve' Approach to Economic Diplomacy</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/breakthrough-pdf-encryption-step-by-step-tutorial-for-password-removal-and-freedom-from-constraints/"><u>Breakthrough PDF Encryption: Step-by-Step Tutorial for Password Removal and Freedom From Constraints</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/by-author-u-brother-the-allure-and-choices-of-a-million-solitudes-path/"><u>By Author U-Brother: The Allure and Choices of a Million Solitudes' Path</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/can-the-magnificent-seven-stock-setback-impact-bitcoin-values-next-insights-by-yl-computing/"><u>Can 'The Magnificent Seven' Stock Setback Impact Bitcoin Values Next? - Insights by YL Computing</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/discovering-the-world-of-ebooks-with-epub-your-ultimate-resource/"><u>Discovering the World of eBooks with EPUB: Your Ultimate Resource</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/download-tools-for-bypassing-pdf-protection/"><u>Download Tools for Bypassing PDF Protection</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/download-tools-for-eliminating-epub-digital-rights-management-drm/"><u>Download Tools for Eliminating EPUB Digital Rights Management (DRM)</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/easy-steps-to-access-and-use-ebooks-in-acsm-format-on-a-mac-computer/"><u>Easy Steps to Access and Use eBooks in ACSM Format on a Mac Computer</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/explore-the-quintessential-challenges-the-top-6-flaws-in-kindle-fire-devices/"><u>Explore the Quintessential Challenges: The Top 6 Flaws in Kindle Fire Devices</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-zte-blade-a73-5g-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For ZTE Blade A73 5G | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-infinix-hot-40i-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Infinix Hot 40i to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/mastering-cross-platform-reading-transition-from-nook-to-amazon-kindle/"><u>Mastering Cross-Platform Reading: Transition From Nook to Amazon Kindle</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-top-10-vlogging-apps-for-editing-on-the-go/"><u>New In 2024, Top 10 Vlogging Apps for Editing on the Go</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/spin-elegance-bluetooth-and-style-with-sony-lx310bt/"><u>Spin Elegance: Bluetooth and Style with Sony LX310BT</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-perfect-pairing-of-xbox-and-zooming-techniques-for-gaming/"><u>The Perfect Pairing of Xbox and Zooming Techniques for Gaming</u></a></li>
 </ul></div>
 

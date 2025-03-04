@@ -1,7 +1,7 @@
 ---
 title: Dalam Menuju Tahannya, Pertama Kali Belajar 2 Hal Penting Dalam Kloning Disk Windows Server 2016
-date: 2025-01-23T02:15:33.395Z
-updated: 2025-01-23T17:21:01.903Z
+date: 2025-03-01T17:22:50.947Z
+updated: 2025-03-03T18:41:38.405Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/3119c4d644ca38982b7a0f68d251b6e048a299751591496c468d996da741d28a.jpg
@@ -38,10 +38,6 @@ Teilen Sie dies: [![facebook](https://www.ubackup.com/resource/images/ab-theme/u
 6. [Zusammenfassung](https://tools.techidaily.com/ubackup/products/)
 7. [Häufig gestellte Fragen](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Ist es sicher, den Papierkorb zu löschen?
 
 Kann ich den Ordner „Papierkorb“ von meiner D-Festplatte löschen, da er 9 GB Speicherplatz belegt? Wenn ich ihn öffne, ist nichts darin enthalten. Und es gibt einen anderen Ordner mit demselben Namen auf meiner C-Festplatte, der ebenfalls Platz beansprucht. Ist es also sicher, den Papierkorb zu löschen?
@@ -53,10 +49,6 @@ Vor der dauerhaften Löschung kann der Papierkorb gelöschte Dateien und Ordner 
 Nicht zu vergessen sind die kürzlich gelöschten Dateien im Papierkorb. Sie werden weiterhin den begrenzten Speicherplatz belegen.
 
 [![Papierkorb leeren](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows-recovery/empty-recycle-bin.png "Papierkorb leeren")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Um Speicherplatz freizugeben, leeren viele Benutzer ihren Papierkorb. Aber ist es sicher, den Papierkorb zu löschen? Um spätere Bedauern zu vermeiden, öffnen Sie diesen temporären Speicherplatz, um zu prüfen, ob sich darin Dateien befinden, die Sie wiederherstellen möchten.
 
@@ -78,21 +70,9 @@ Vor der dauerhaften Löschung des Papierkorbs sollten Sie sicherstellen, dass ke
 
 [![Desktopsymbol-Einstellungen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/desktop-icon-settings.png "Desktopsymbol-Einstellungen")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Schritt 4**. Suchen Sie das „**Papierkorb**“-Symbol, entfernen Sie das Häkchen und bestätigen Sie mit „**Übernehmen**“ und „**OK**“.
 
 [![Papierkorb](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/check-recycle-bin-click-ok.png "Papierkorb")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Teil 2\. Wie kann man den Papierkorb vom Desktop entfernen?
 
@@ -105,10 +85,6 @@ Wenn Sie den Papierkorb mittels erhöhter Eingabeaufforderung zurücksetzen möc
 **Schritt 2**. Geben Sie „**rd /s /q C:\\Papierkorb**“ in das Eingabeaufforderungsfenster ein und drücken Sie „**Enter**“, um den Vorgang zu starten. Wenn erforderlich, ersetzen Sie das Laufwerk C durch Ihren gewünschten Laufwerksbuchstaben.
 
 [![cmd Papierkorb zurücksetzen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/command-prompt/cmd-reset-recycle-bin.png "cmd Papierkorb zurücksetzen")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Teil 3\. Wie kann man gelöschte Dateien aus dem Papierkorb nach dem Leeren wiederherstellen?
 
@@ -161,10 +137,6 @@ Sicherer Download
 
 [![dateisicherung](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/de/std/backup/file-backup/file-backup.png "dateisicherung")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Schritt** **2**. Sie können ihn im Feld „**Aufgabename**“ benennen, um ihn von anderen Backups zu unterscheiden.
 
 [![aufgabename eingeben](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/de/std/backup/file-backup/task-name.png)
@@ -172,10 +144,6 @@ Sicherer Download
 **Schritt** **3**. Klicken Sie auf „**\+ Datei**“ oder „**\+ Ordner**“, damit Sie die Dateien/Ordner auswählen können, die Sie sichern möchten. (Sie können mehrere Ordner und Dateien als Quelle hinzufügen; Sie können auch Ordner und Dateien direkt als Quelle auf den Backupper ziehen).
 
 [![Ordner hinzufügen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/de/std/backup/file-backup/add-folder.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Schritt 4**. Nach Abschluss des Sicherungsvorgangs klicken Sie auf „Fertig“, um das Fenster zu schließen.
 
@@ -188,10 +156,6 @@ Wenn Ihr Papierkorb leer angezeigt wird, dies aber nicht der Fall ist, können S
 Wenn Sie den Papierkorb vom Desktop aus leeren möchten, können Sie die im zweiten Teil empfohlene erweiterte Eingabeaufforderung verwenden.
 
 Für [dauerhaft gelöschte Dateien können Sie Ihre Dateien](https://tools.techidaily.com/ubackup/products/) aus den von AOMEI Backupper erstellten Sicherungen wiederherstellen oder Datenrettungstools verwenden, um sie wiederherzustellen.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Häufig gestellte Fragen
 
@@ -268,22 +232,15 @@ Wiederherstellen von gelöschten und verlorenen Daten aus allen Katastrophen in 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-stepwise-process-for-high-quality-screen-captures-from-dell/"><u>[New] 2024 Approved Stepwise Process for High-Quality Screen Captures From Dell</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-the-ultimate-guide-to-starting-a-sports-channel-on-mac/"><u>[New] In 2024, The Ultimate Guide to Starting a Sports Channel on Mac</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/comprehensive-video-analysis-of-jammtext-revolutionizing-screen-typing-and-imaging/"><u>Comprehensive Video Analysis of JammText: Revolutionizing Screen Typing & Imaging</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/high-definition-leaf-themed-wallpaper-collection-by-yl-computing/"><u>High-Definition Leaf Themed Wallpaper Collection by YL Computing</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-samsung-galaxy-xcover-6-pro-tactical-edition-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Samsung Galaxy XCover 6 Pro Tactical Edition Location on Skout | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-converting-iphone-photos-jpg-png-into-pdf-documents/"><u>In 2024, Converting iPhone Photos (JPG, PNG) Into PDF Documents</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/is-fake-gps-location-spoofer-a-good-choice-on-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>Is Fake GPS Location Spoofer a Good Choice On Samsung Galaxy F54 5G? | Dr.fone</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/mastering-group-policy-editor-for-registry-management-insights-from-yl-computing-experts/"><u>Mastering Group Policy Editor for Registry Management: Insights From YL Computing Experts</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/maximizing-computer-speed-and-functionality-with-yl-software-strategies/"><u>Maximizing Computer Speed & Functionality with YL Software Strategies</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/overcoming-the-fat-file-system-error-in-windows-11-with-easy-troubleshooting-tips/"><u>Overcoming the 'FAT File System Error' In Windows 11 with Easy Troubleshooting Tips</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/premium-ferrari-sf90-background-images-and-graphics-by-yl-tech-solutions/"><u>Premium Ferrari SF90 Background Images and Graphics by YL Tech Solutions</u></a></li>
-<li><a href="https://extra-information.techidaily.com/relish-free-movie-playback-pc-and-mac-style/"><u>Relish Free Movie Playback, PC & Mac Style</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/transformation-facile-de-la-video-3gp-a-wav-sur-internet-gratuit-movavi/"><u>Transformation Facile De La Vidéo 3Gp À Wav Sur Internet Gratuit - Movavi</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/troubleshooting-and-fixing-your-windows-audio-driver-problems-a-comprehensive-guide-by-yl-computing/"><u>Troubleshooting and Fixing Your Windows Audio Driver Problems: A Comprehensive Guide - By YL Computing</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/troubleshooting-external-device-malfunctions-expert-tips-from-yl-software-solutions/"><u>Troubleshooting External Device Malfunctions - Expert Tips From YL Software Solutions</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/ultra-hd-samurai-desktop-artwork-1920x1080-for-windows-and-mac-high-quality-wallpapers-by-yl-computing/"><u>Ultra-HD Samurai Desktop Artwork (1920X1080) for Windows & Mac - High-Quality Wallpapers by YL Computing</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/-platform-review-is-vimeo-best-over-youtubes-and-dailymotions/"><u>Video Platform Review Is Vimeo Best Over YouTubes and DailyMotions?</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-decoding-photovideo-imports-in-windows-11-deep-dive/"><u>[New] 2024 Approved Decoding Photo/Video Imports in Windows 11 Deep Dive</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-decoding-the-layout-of-instagram-stories-feature-for-2024/"><u>[Updated] Decoding the Layout of Instagram Stories Feature for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-effective-practices-for-device-video-capture/"><u>2024 Approved Effective Practices for Device Video Capture</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/complete-guide-capturing-screenshots-and-recording-your-screen-on-an-msi-laptop/"><u>Complete Guide: Capturing Screenshots and Recording Your Screen on an MSI Laptop</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/complete-tutorial-downloading-and-watching-youtube-on-amazons-kindle-fire-tablet/"><u>Complete Tutorial: Downloading and Watching YouTube on Amazon's Kindle Fire Tablet</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/download-mp4-convert-software-discover-factory-pros-free-trial-and-easy-payment-features/"><u>Download MP4 Convert Software: Discover Factory Pro's Free Trial and Easy Payment Features</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/easy-guide-creating-iphone-ringtones-from-youtube-videos-using-m4r-format/"><u>Easy Guide: Creating iPhone Ringtones From YouTube Videos Using M4R Format</u></a></li>
+<li><a href="https://win-forum.techidaily.com/efficiently-delete-folders-and-text-documents-with-windows-11s-powershell-or-batch-scripts/"><u>Efficiently Delete Folders and Text Documents with Windows 11'S PowerShell or Batch Scripts</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-disappearing-panes-top-strategies-in-the-world-of-windows-11/"><u>Overcoming Disappearing Panes: Top Strategies in the World of Windows 11</u></a></li>
+<li><a href="https://win-help.techidaily.com/transform-your-pdfs-and-images-into-interactive-android-books-using-flipbuilder/"><u>Transform Your PDFs & Images Into Interactive Android Books Using FlipBuilder</u></a></li>
 </ul></div>
 
